@@ -30,7 +30,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ChargE3Net          | Higher-order equivariant neural networks for charge density prediction in materials (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01343-1?fromPaywallRec=false)][[**Code**](https://github.com/AIforGreatGood/charge3net)]     |
 |ECSG          | Predicting thermodynamic stability of inorganic compounds using ensemble machine learning based on electron configuration (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55525-y)][[**Code**](https://github.com/Haozou-csu/ECSG)]     | 
 |ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
-|CrystalFramer         |Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR2025) [[**Paper**](https://openreview.net/forum?id=gzxDjnvBDa)]    | 
+|CrystalFramer         |Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR2025) [[**Paper**](https://openreview.net/forum?id=gzxDjnvBDa)]   [[**Code**](https://github.com/omron-sinicx/crystalframer)]      | 
 |SimXRD         |SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark (ICLR2025) [[**Paper**](https://openreview.net/forum?id=mkuB677eMM)]  [[**Code**](https://github.com/Bin-Cao/SimXRD)]   | 
 |ct-UAE         |Transformer-generated atomic embeddings to enhance prediction accuracy of crystal properties with machine learning (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-56481-x)]  [[**Code**](https://github.com/fduabinitio/ct-UAE)]   | 
 |-         |Cross-scale covariance for material property prediction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01453-w)]  [[**Code**](https://github.com/bjasperson/strength_covariance)]   | 
@@ -79,6 +79,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |OSDAs         |OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents (ICLR2025) [[**Paper**](https://openreview.net/forum?id=9YNyiCJE3k)]    | 
 |MAGUS        | Efficient crystal structure prediction based on the symmetry principle (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00775-z)]     | 
 |Target XXXI        | A robust crystal structure prediction method to support small molecule drug development with large scale validation and blind study (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-57479-1)]    |
+|-       | Accelerating crystal structure search through active learning with neural networks for rapid relaxations (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01523-7)] [[**Code**](https://github.com/stefaanhessmann/active-csp)]     |
 
 
 ## Aiding Characterization
