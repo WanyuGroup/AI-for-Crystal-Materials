@@ -79,7 +79,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |OSDAs         |OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents (ICLR2025) [[**Paper**](https://openreview.net/forum?id=9YNyiCJE3k)]    | 
 |MAGUS        | Efficient crystal structure prediction based on the symmetry principle (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00775-z)]     | 
 |Target XXXI        | A robust crystal structure prediction method to support small molecule drug development with large scale validation and blind study (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-57479-1)]    |
-|-       | Accelerating crystal structure search through active learning with neural networks for rapid relaxations (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01523-7)] [[**Code**](https://github.com/stefaanhessmann/active-csp)]     |
+|active-csp       | Accelerating crystal structure search through active learning with neural networks for rapid relaxations (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01523-7)] [[**Code**](https://github.com/stefaanhessmann/active-csp)]     |
 
 
 ## Aiding Characterization
