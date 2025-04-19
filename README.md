@@ -28,13 +28,15 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Uni-MOF          | A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-46276-x)][[**Code**](https://github.com/dptech-corp/Uni-MOF)]     | 
 |SODNet          | Learning Superconductivity from Ordered and Disordered Material Structures (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=iNYrB3ip9F#discussion)][[**Code**](https://github.com/pincher-chen/SODNet)]     |
 |ChargE3Net          | Higher-order equivariant neural networks for charge density prediction in materials (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01343-1?fromPaywallRec=false)][[**Code**](https://github.com/AIforGreatGood/charge3net)]     |
+|MD-HIT          | MD-HIT: Machine learning for material property prediction with dataset redundancy control (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01426-z)][[**Code**](https://github.com/usccolumbia/MD-HIT)]     |
+|-          | Structure-based out-of-distribution (OOD) materials property prediction: a benchmark study (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01316-4)][[**Code**](https://github.com/sadmanomee/OOD_Materials_Benchmark)]     |
 |ECSG          | Predicting thermodynamic stability of inorganic compounds using ensemble machine learning based on electron configuration (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55525-y)][[**Code**](https://github.com/Haozou-csu/ECSG)]     | 
 |ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
 |CrystalFramer         |Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR2025) [[**Paper**](https://openreview.net/forum?id=gzxDjnvBDa)]   [[**Code**](https://github.com/omron-sinicx/crystalframer)]      | 
 |SimXRD         |SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark (ICLR2025) [[**Paper**](https://openreview.net/forum?id=mkuB677eMM)]  [[**Code**](https://github.com/Bin-Cao/SimXRD)]   | 
 |ct-UAE         |Transformer-generated atomic embeddings to enhance prediction accuracy of crystal properties with machine learning (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-56481-x)]  [[**Code**](https://github.com/fduabinitio/ct-UAE)]   | 
 |-         |Cross-scale covariance for material property prediction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01453-w)]  [[**Code**](https://github.com/bjasperson/strength_covariance)]   | 
-
+|AdsMT         |A multi-modal transformer for predicting global minimum adsorption energy (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-58499-7)]  [[**Code**](https://github.com/schwallergroup/AdsMT)]   | 
 ## Crystalline Material Synthesis
 
 |Method         |           Paper            |
