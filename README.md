@@ -37,6 +37,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ct-UAE         |Transformer-generated atomic embeddings to enhance prediction accuracy of crystal properties with machine learning (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-56481-x)]  [[**Code**](https://github.com/fduabinitio/ct-UAE)]   | 
 |-         |Cross-scale covariance for material property prediction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01453-w)]  [[**Code**](https://github.com/bjasperson/strength_covariance)]   | 
 |AdsMT         |A multi-modal transformer for predicting global minimum adsorption energy (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-58499-7)]  [[**Code**](https://github.com/schwallergroup/AdsMT)]   | 
+|DPF         |A Denoising Pre-training Framework for Accelerating Novel Material Discovery (AAAI2025) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/35058)]   | 
+|CrysCo         |Accelerating materials property prediction via a hybrid Transformer Graph framework that leverages four body interactions (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01472-7)]   [[**Code**](https://github.com/mahan-fcb/CrysCo)] | 
+
 ## Crystalline Material Synthesis
 
 |Method         |           Paper            |
@@ -100,8 +103,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |XRD-AutoAnalyzer         | Integrated analysis of X-ray diffraction patterns and pair distribution functions for machine-learned phase identification  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01230-9?fromPaywallRec=false)] [[**Code**](https://github.com/njszym/XRD-AutoAnalyzer)]     | 
 |CrystalNet          | Towards end-to-end structure determination from x-ray diffraction data using deep learning  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01401-8)] [[**Code**](https://github.com/gabeguo/deep-crystallography-public)]     | 
 |-          | Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model  (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=GB5a0RRYuv)] [[**Code**](https://github.com/MasterAI-EAM/Material-Knowledge-Graph)]     | 
-
-
+|MatDuck         |Zero-Shot Learning for Materials Science Texts: Leveraging Duck Typing Principles (AAAI2025) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32100)] [[**Code**](https://github.com/xinzcode/MatDuck)]   | 
+|-         |Unsupervised identification of crystal defects from atomistic potential descriptors (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01544-2)]  | 
+|PAGL        |Learning to predict rare events: the case of abnormal grain growth (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01530-8)]  | 
 
 
 ## Accelerating Theoretical Computation
