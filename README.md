@@ -76,6 +76,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ChemReasoner         | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback (ICML2024) [[**Paper**](https://openreview.net/forum?id=3tJDnEszco)]  [[**Code**](https://github.com/pnnl/chemreasoner)]  | 
 |a²c         | Predicting emergence of crystals from amorphous precursors with deep learning potentials (Nature Computational Science, 2024) [[**Paper**](https://www.nature.com/articles/s43588-024-00752-y)][[**Code**](https://github.com/jax-md/jax-md/tree/main/jax_md/a2c)]     | 
 |-          |Rapid prediction of molecular crystal structures using simple topological and physical descriptors (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-53596-5?fromPaywallRec=false)]    | 
+|ShotgunCSP      |Shotgun crystal structure prediction using machine-learned formation energies (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01471-8)]   [[**Code**](https://github.com/TsumiNa/ShotgunCSP)] | 
 |MatterGen         | A generative model for inorganic materials design (Nature, 2025) [[**Paper**](https://www.nature.com/articles/s41586-025-08628-5)][[**Code**](https://github.com/microsoft/mattergen)]     | 
 |SymmCD         |SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models (ICLR2025) [[**Paper**](https://openreview.net/forum?id=xnssGv9rpW)][[**Code**](https://github.com/sibasmarak/SymmCD)]     | 
 |MatExpert         |MatExpert: Decomposing Materials Discovery By Mimicking Human Experts (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AUBvo4sxVL)]    | 
@@ -106,7 +107,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |MatDuck         |Zero-Shot Learning for Materials Science Texts: Leveraging Duck Typing Principles (AAAI2025) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32100)] [[**Code**](https://github.com/xinzcode/MatDuck)]   | 
 |-         |Unsupervised identification of crystal defects from atomistic potential descriptors (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01544-2)]  | 
 |PAGL        |Learning to predict rare events: the case of abnormal grain growth (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01530-8)]  | 
-
+|PXRDnet     | Ab initio structure solutions from nanocrystalline powder diffraction data via diffusion models (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02220-y)] [[**Code**](https://github.com/gabeguo/cdvae_xrd)]     |
 
 ## Accelerating Theoretical Computation
 |Method         |           Paper            |
