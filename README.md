@@ -33,7 +33,6 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |MD-HIT          | MD-HIT: Machine learning for material property prediction with dataset redundancy control (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01426-z)][[**Code**](https://github.com/usccolumbia/MD-HIT)]     |
 |-          | Structure-based out-of-distribution (OOD) materials property prediction: a benchmark study (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01316-4)][[**Code**](https://github.com/sadmanomee/OOD_Materials_Benchmark)]     |
 |ECSG          | Predicting thermodynamic stability of inorganic compounds using ensemble machine learning based on electron configuration (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55525-y)][[**Code**](https://github.com/Haozou-csu/ECSG)]     | 
-|ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
 |CrystalFramer         |Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR2025) [[**Paper**](https://openreview.net/forum?id=gzxDjnvBDa)]   [[**Code**](https://github.com/omron-sinicx/crystalframer)]      | 
 |ct-UAE         |Transformer-generated atomic embeddings to enhance prediction accuracy of crystal properties with machine learning (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-56481-x)]  [[**Code**](https://github.com/fduabinitio/ct-UAE)]   | 
 |-         |Cross-scale covariance for material property prediction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01453-w)]  [[**Code**](https://github.com/bjasperson/strength_covariance)]   | 
@@ -138,7 +137,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 | M² Hub |M²Hub: Unlocking the Potential of Machine Learning for Materials Discovery (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f43380ca3f86cd989f3269583c3c8b55-Abstract-Datasets_and_Benchmarks.html)] [[**Code**](https://github.com/yuanqidu/M2Hub)]     | 
 |JARVIS-Leaderboard         | JARVIS-Leaderboard: a large scale benchmark of materials design methods (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01259-w)] [[**Code**](https://github.com/usnistgov/jarvis_leaderboard)]     | 
 |SimXRD         |SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark (ICLR2025) [[**Paper**](https://openreview.net/forum?id=mkuB677eMM)]  [[**Code**](https://github.com/Bin-Cao/SimXRD)]   | 
-
+|ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
 
 ## Common Dataset 
 
