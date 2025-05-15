@@ -26,6 +26,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Matformer          | Periodic Graph Transformers for Crystal Material Property Prediction (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6145c70a4a4bf353a31ac5496a72a72d-Abstract-Conference.html)][[**Code**](https://github.com/YKQ98/Matformer)]     | 
 |CrysDiff          | A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]     | 
 |MOFTransformer        | A multi-modal pre-training transformer for universal transfer learning in metal-organic frameworks (Nature Machine Intelligence, 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00628-2)][[**Code**](https://github.com/hspark1212/MOFTransformer)]     | 
+|-       | Examining graph neural networks for crystal structures: Limitations and opportunities for capturing periodicity (Science  Advances, 2023) [[**Paper**](https://www.science.org/doi/full/10.1126/sciadv.adi3245)][[**Code**](https://github.com/shenggong1996/examining-GNN-for-crystal-periodicity/tree/master)]     | 
 |Uni-MOF          | A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-46276-x)][[**Code**](https://github.com/dptech-corp/Uni-MOF)]     | 
 |SODNet          | Learning Superconductivity from Ordered and Disordered Material Structures (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=iNYrB3ip9F#discussion)][[**Code**](https://github.com/pincher-chen/SODNet)]     |
 |ChargE3Net          | Higher-order equivariant neural networks for charge density prediction in materials (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01343-1?fromPaywallRec=false)][[**Code**](https://github.com/AIforGreatGood/charge3net)]     |
@@ -34,7 +35,6 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ECSG          | Predicting thermodynamic stability of inorganic compounds using ensemble machine learning based on electron configuration (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55525-y)][[**Code**](https://github.com/Haozou-csu/ECSG)]     | 
 |ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
 |CrystalFramer         |Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR2025) [[**Paper**](https://openreview.net/forum?id=gzxDjnvBDa)]   [[**Code**](https://github.com/omron-sinicx/crystalframer)]      | 
-|SimXRD         |SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark (ICLR2025) [[**Paper**](https://openreview.net/forum?id=mkuB677eMM)]  [[**Code**](https://github.com/Bin-Cao/SimXRD)]   | 
 |ct-UAE         |Transformer-generated atomic embeddings to enhance prediction accuracy of crystal properties with machine learning (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-56481-x)]  [[**Code**](https://github.com/fduabinitio/ct-UAE)]   | 
 |-         |Cross-scale covariance for material property prediction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01453-w)]  [[**Code**](https://github.com/bjasperson/strength_covariance)]   | 
 |AdsMT         |A multi-modal transformer for predicting global minimum adsorption energy (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-58499-7)]  [[**Code**](https://github.com/schwallergroup/AdsMT)]   | 
@@ -131,7 +131,16 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |DeepRelax     |Scalable crystal structure relaxation using an iteration-free deep generative model with uncertainty quantification  (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-52378-3)]   [[**Code**](https://github.com/Shen-Group/DeepRelax)]  | 
 |AssembleFlow     |AssembleFlow: Rigid Flow Matching with Inertial Frames for Molecular Assembly  (ICLR2025) [[**Paper**](https://openreview.net/forum?id=jckKNzYYA6)]  |  
 
-## Common Dataset and Platform
+## Benchmark
+|Method         |           Paper            |
+|----------------|-------------------------------|
+| MatBench | Benchmarking materials property prediction methods: the Matbench test set and Automatminer reference algorithm (npj Computational Materials, 2020) [[**Paper**](https://www.nature.com/articles/s41524-020-00406-3)] [[**Code**](https://github.com/materialsproject/matbench)]     | 
+| M² Hub |M²Hub: Unlocking the Potential of Machine Learning for Materials Discovery (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f43380ca3f86cd989f3269583c3c8b55-Abstract-Datasets_and_Benchmarks.html)] [[**Code**](https://github.com/yuanqidu/M2Hub)]     | 
+|JARVIS-Leaderboard         | JARVIS-Leaderboard: a large scale benchmark of materials design methods (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01259-w)] [[**Code**](https://github.com/usnistgov/jarvis_leaderboard)]     | 
+|SimXRD         |SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark (ICLR2025) [[**Paper**](https://openreview.net/forum?id=mkuB677eMM)]  [[**Code**](https://github.com/Bin-Cao/SimXRD)]   | 
+
+
+## Common Dataset 
 
 | Dataset | Description | URL |
 |---------|-------------|-----|
@@ -145,8 +154,6 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 | Inorganic Crystal Structure Database | Inorganic Crystal Structure Database is the world's largest database for completely identified inorganic crystal structures. | [Inorganic Crystal Structure Database](https://icsd.products.fiz-karlsruhe.de/en) |
 | Open Catalyst Project | The goal of Open Catalyst Project is to utilize artificial intelligence to simulate and discover new catalysts for renewable energy storage. | [Open Catalyst Project](https://opencatalystproject.org/) |
 | Python Materials Genomics | Python Materials Genomics is a robust, open-source Python library for materials analysis, offering a range of modules for handling crystal structures, band structures, phase diagrams, and material properties. | [Python Materials Genomics](https://pymatgen.org/) |
-| MatBench | MatBench is a benchmark suite in the field of materials science, designed to evaluate and compare the performance of various ML models. | [MatBench](https://github.com/materialsproject/matbench) |
-| M² Hub | M² Hub is a machine learning toolkit for materials discovery research that covers the entire workflow. | [M² Hub](https://github.com/yuanqidu/M2Hub) |
 | Phonon DOS Dataset | Phonon DOS Dataset contains approximately 1,500 crystalline materials whose phonon DOS is calculated from DFPT. | [Phonon DOS Dataset](https://doi.org/10.6084/m9.figshare.c.3938023) |
 | Carolina Materials Database | CMD primarily consists of ternary and quaternary materials generated by some AI methods. | [Carolina Materials Database](http://www.carolinamatdb.org/) |
 | Alexandria Database | Alexandria Database includes a large quantity of hypothetical crystal structures generated by ML methods or other algorithmic methodologies. | [Alexandria Database](https://alexandria.icams.rub.de/) |
