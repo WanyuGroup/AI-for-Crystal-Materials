@@ -90,7 +90,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Target XXXI        | A robust crystal structure prediction method to support small molecule drug development with large scale validation and blind study (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-57479-1)]    |
 |active-csp       | Accelerating crystal structure search through active learning with neural networks for rapid relaxations (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01523-7)] [[**Code**](https://github.com/stefaanhessmann/active-csp)]     |
 |Chemeleon   | Exploration of crystal chemical space using text-guided generative artificial intelligence (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59636-y)] [[**Code**](https://github.com/hspark1212/chemeleon/)]     |
-
+|MAGECS   |Inverse design of promising electrocatalysts for CO2 reduction via generative models and bird swarm algorithm (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55613-z)] [[**Code**](https://github.com/szl666/CO2RR-inverse-design)]     |
 
 ## Aiding Characterization
 |Method         |           Paper            |
