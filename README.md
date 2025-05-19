@@ -39,6 +39,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |AdsMT         |A multi-modal transformer for predicting global minimum adsorption energy (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-58499-7)]  [[**Code**](https://github.com/schwallergroup/AdsMT)]   | 
 |DPF         |A Denoising Pre-training Framework for Accelerating Novel Material Discovery (AAAI2025) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/35058)]   | 
 |CrysCo         |Accelerating materials property prediction via a hybrid Transformer Graph framework that leverages four body interactions (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01472-7)]   [[**Code**](https://github.com/mahan-fcb/CrysCo)] | 
+|E2T         |Advancing extrapolative predictions of material properties through learning to learn using extrapolative episodic training (Communications Materials, 2025) [[**Paper**](https://www.nature.com/articles/s43246-025-00754-x)]   [[**Code**](https://github.com/JSR-ISM-Smart-Chemistry-Lab/E2T)] | 
+
 
 ## Crystalline Material Synthesis
 
