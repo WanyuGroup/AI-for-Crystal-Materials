@@ -42,7 +42,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |E2T         |Advancing extrapolative predictions of material properties through learning to learn using extrapolative episodic training (Communications Materials, 2025) [[**Paper**](https://www.nature.com/articles/s43246-025-00754-x)]   [[**Code**](https://github.com/JSR-ISM-Smart-Chemistry-Lab/E2T)] | 
 |-         |Probing out-of-distribution generalization in machine learning for materials (Communications Materials, 2025) [[**Paper**](https://www.nature.com/articles/s43246-024-00731-w)]   [[**Code**](https://github.com/mathsphy/probing-ood)] | 
 |-        |A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01607-4)]   [[**Code**](https://github.com/wangchaobjut/Multi_Type_HERs)] | 
-
+|-        |Automatic identification of slip pathways in ductile inorganic materials by combining the active learning strategy and NEB method (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01531-7)]   | 
+|BETE-NET       |Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01475-4)]   [[**Code**](https://github.com/henniggroup/BETE-NET)] | 
 
 
 
@@ -119,6 +120,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-         |Unsupervised identification of crystal defects from atomistic potential descriptors (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01544-2)]  | 
 |PAGL        |Learning to predict rare events: the case of abnormal grain growth (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01530-8)]  | 
 |PXRDnet     | Ab initio structure solutions from nanocrystalline powder diffraction data via diffusion models (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02220-y)] [[**Code**](https://github.com/gabeguo/cdvae_xrd)]     |
+|SBC       |Automated identification of bulk structures, two-dimensional materials, and interfaces using symmetry-based clustering (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01498-x)]   [[**Code**](https://github.com/nomad-coe/matid)] | 
+    
+
 
 ## Accelerating Theoretical Computation
 |Method         |           Paper            |
