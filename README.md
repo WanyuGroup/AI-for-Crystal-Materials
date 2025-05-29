@@ -142,6 +142,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |AdsorbDiff     |AdsorbDiff: Adsorbate Placement via Conditional Denoising Diffusion  (ICML2024) [[**Paper**](https://openreview.net/forum?id=ZMgpE58PMj)]   [[**Code**](https://github.com/AdeeshKolluru/AdsorbDiff)]  | 
 |DeepRelax     |Scalable crystal structure relaxation using an iteration-free deep generative model with uncertainty quantification  (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-52378-3)]   [[**Code**](https://github.com/Shen-Group/DeepRelax)]  | 
 |AssembleFlow     |AssembleFlow: Rigid Flow Matching with Inertial Frames for Molecular Assembly  (ICLR2025) [[**Paper**](https://openreview.net/forum?id=jckKNzYYA6)]  |  
+|-      |Machine learning Hubbard parameters with equivariant neural networks (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01501-5)]   [[**Code**](https://github.com/camml-lab/hubbardml/)] | 
+
+
 
 ## Benchmark
 |Method         |           Paper            |
