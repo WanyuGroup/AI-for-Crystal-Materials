@@ -100,7 +100,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Chemeleon   | Exploration of crystal chemical space using text-guided generative artificial intelligence (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59636-y)] [[**Code**](https://github.com/hspark1212/chemeleon/)]     |
 |MAGECS   |Inverse design of promising electrocatalysts for CO2 reduction via generative models and bird swarm algorithm (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55613-z)] [[**Code**](https://github.com/szl666/CO2RR-inverse-design)]     |
 |PGH-VAEs        |Inverse design of catalytic active sites via interpretable topology-based deep generative models (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01649-8)]   [[**Code**](https://github.com/PKUsam2023/PGH-VAEs)] | 
-|Wyckoff Transformer       |Wyckoff Transformer: Generation of Symmetric Crystals (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/44595)]  | 
+|WyFormer       |Wyckoff Transformer: Generation of Symmetric Crystals (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/44595)]  | 
 |KLDM      |Kinetic Langevin Diffusion for Crystalline Materials Generation (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/46331)]  | 
 |WyckoffDiff      |WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/45457)]  | 
 |OMG      |Open Materials Generation with Stochastic Interpolants (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/44483)]  |     
