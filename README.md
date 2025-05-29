@@ -41,6 +41,10 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrysCo         |Accelerating materials property prediction via a hybrid Transformer Graph framework that leverages four body interactions (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01472-7)]   [[**Code**](https://github.com/mahan-fcb/CrysCo)] | 
 |E2T         |Advancing extrapolative predictions of material properties through learning to learn using extrapolative episodic training (Communications Materials, 2025) [[**Paper**](https://www.nature.com/articles/s43246-025-00754-x)]   [[**Code**](https://github.com/JSR-ISM-Smart-Chemistry-Lab/E2T)] | 
 |-         |Probing out-of-distribution generalization in machine learning for materials (Communications Materials, 2025) [[**Paper**](https://www.nature.com/articles/s43246-024-00731-w)]   [[**Code**](https://github.com/mathsphy/probing-ood)] | 
+|-        |A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01607-4)]   [[**Code**](https://github.com/wangchaobjut/Multi_Type_HERs)] | 
+
+
+
 
 ## Crystalline Material Synthesis
 
@@ -93,6 +97,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |active-csp       | Accelerating crystal structure search through active learning with neural networks for rapid relaxations (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01523-7)] [[**Code**](https://github.com/stefaanhessmann/active-csp)]     |
 |Chemeleon   | Exploration of crystal chemical space using text-guided generative artificial intelligence (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59636-y)] [[**Code**](https://github.com/hspark1212/chemeleon/)]     |
 |MAGECS   |Inverse design of promising electrocatalysts for CO2 reduction via generative models and bird swarm algorithm (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55613-z)] [[**Code**](https://github.com/szl666/CO2RR-inverse-design)]     |
+|PGH-VAEs        |Inverse design of catalytic active sites via interpretable topology-based deep generative models (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01649-8)]   [[**Code**](https://github.com/PKUsam2023/PGH-VAEs)] | 
+
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
