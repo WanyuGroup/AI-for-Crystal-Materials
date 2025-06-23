@@ -105,7 +105,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |KLDM      |Kinetic Langevin Diffusion for Crystalline Materials Generation (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/46331)]  | 
 |WyckoffDiff      |WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/45457)]  | 
 |OMG      |Open Materials Generation with Stochastic Interpolants (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/44483)]  |     
-|Deep dreaming   |Inverse design of metal-organic frameworks using deep dreaming approaches (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59952-3)] [[**Code**](https://github.com/SarkisovTeam/dreaming4MOFs)]     |
+|-  |Inverse design of metal-organic frameworks using deep dreaming approaches (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59952-3)] [[**Code**](https://github.com/SarkisovTeam/dreaming4MOFs)]     |
 
 ## Aiding Characterization
 |Method         |           Paper            |
