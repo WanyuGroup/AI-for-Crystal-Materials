@@ -46,7 +46,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |BETE-NET       |Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01475-4)]   [[**Code**](https://github.com/henniggroup/BETE-NET)] | 
 |HiBoFL      |Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01583-9)]   [[**Code**](https://github.com/mf-wu/HiBoFL)] | 
 |Rep-CodeGen      |Code-Generated Graph Representations Using Multiple LLM Agents for Material Properties Prediction (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/44181)]  | 
-
+|-        | A framework to evaluate machine learning crystal stability predictions (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01055-1?fromPaywallRec=false)]  | 
 
 
 ## Crystalline Material Synthesis
