@@ -98,6 +98,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |TGDMat          |Periodic Materials Generation using Text-Guided Joint Diffusion Model (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AkBrb7yQ0G)]    | 
 |CrysBFN          |A Periodic Bayesian Flow for Material Generation (ICLR2025) [[**Paper**](https://openreview.net/forum?id=Lz0XW99tE0)]  [[**Code**](https://github.com/wu-han-lin/CrysBFN)]   | 
 |OSDAs         |OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents (ICLR2025) [[**Paper**](https://openreview.net/forum?id=9YNyiCJE3k)]    | 
+|-          |Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective (ICLR2025) [[**Paper**](https://openreview.net/forum?id=tcvMzR2NrP)]    | 
 |MAGUS        | Efficient crystal structure prediction based on the symmetry principle (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00775-z)]     | 
 |Target XXXI        | A robust crystal structure prediction method to support small molecule drug development with large scale validation and blind study (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-57479-1)]    |
 |active-csp       | Accelerating crystal structure search through active learning with neural networks for rapid relaxations (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01523-7)] [[**Code**](https://github.com/stefaanhessmann/active-csp)]     |
@@ -152,6 +153,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |DeepRelax     |Scalable crystal structure relaxation using an iteration-free deep generative model with uncertainty quantification  (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-52378-3)]   [[**Code**](https://github.com/Shen-Group/DeepRelax)]  | 
 |-     |Universal machine learning interatomic potentials are ready for phonons (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01650-1?fromPaywallRec=false)]   [[**Code**](https://github.com/hyllios/utils/tree/main/)]  | 
 |AssembleFlow     |AssembleFlow: Rigid Flow Matching with Inertial Frames for Molecular Assembly  (ICLR2025) [[**Paper**](https://openreview.net/forum?id=jckKNzYYA6)]  |  
+|SLEM     |Learning local equivariant representations for quantum operators  (ICLR2025) [[**Paper**](https://openreview.net/forum?id=kpq3IIjUD3)]  |  
 |-      |Machine learning Hubbard parameters with equivariant neural networks (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01501-5)]   [[**Code**](https://github.com/camml-lab/hubbardml/)] | 
 |PIWSL     |Physics-Informed Weakly Supervised Learning For Interatomic Potentials (ICML2025) [[**Paper**](https://openreview.net/forum?id=dlshKV0S9t)] [[**Code**](https://github.com/nec-research/PICPS-ML4Sci)] |  
 |ELoRA     |ELoRA: Low-Rank Adaptation for Equivariant GNNs (ICML2025) [[**Paper**](https://openreview.net/forum?id=hcoxm3Vwgy)] [[**Code**](https://github.com/hyjwpk/ELoRA)] |  
