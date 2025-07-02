@@ -107,6 +107,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |KLDM      |Kinetic Langevin Diffusion for Crystalline Materials Generation (ICML2025) [[**Paper**](https://openreview.net/forum?id=7J1kwZY72h)]  | 
 |WyckoffDiff      |WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry (ICML2025) [[**Paper**](https://openreview.net/forum?id=OHPBPveXdg)]   [[**Code**](https://github.com/httk/wyckoffdiff)]| 
 |OMG      |Open Materials Generation with Stochastic Interpolants (ICML2025) [[**Paper**](https://openreview.net/forum?id=gHGrzxFujU)]  [[**Code**](https://github.com/FERMat-ML/OMatG)] |     
+|ADiT      |All-atom Diffusion Transformers: Unified generative modelling of molecules and materials (ICML2025) [[**Paper**](https://openreview.net/forum?id=89QPmZjIhv)]  [[**Code**](https://github.com/facebookresearch/all-atom-diffusion-transformer)] |   
 |-  |Inverse design of metal-organic frameworks using deep dreaming approaches (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59952-3)] [[**Code**](https://github.com/SarkisovTeam/dreaming4MOFs)]     |
 
 ## Aiding Characterization
@@ -128,7 +129,6 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PAGL        |Learning to predict rare events: the case of abnormal grain growth (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01530-8)]  | 
 |PXRDnet     | Ab initio structure solutions from nanocrystalline powder diffraction data via diffusion models (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02220-y)] [[**Code**](https://github.com/gabeguo/cdvae_xrd)]     |
 |SBC       |Automated identification of bulk structures, two-dimensional materials, and interfaces using symmetry-based clustering (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01498-x)]   [[**Code**](https://github.com/nomad-coe/matid)] | 
-    
 
 
 ## Accelerating Theoretical Computation
@@ -149,8 +149,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |DeepRelax     |Scalable crystal structure relaxation using an iteration-free deep generative model with uncertainty quantification  (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-52378-3)]   [[**Code**](https://github.com/Shen-Group/DeepRelax)]  | 
 |AssembleFlow     |AssembleFlow: Rigid Flow Matching with Inertial Frames for Molecular Assembly  (ICLR2025) [[**Paper**](https://openreview.net/forum?id=jckKNzYYA6)]  |  
 |-      |Machine learning Hubbard parameters with equivariant neural networks (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01501-5)]   [[**Code**](https://github.com/camml-lab/hubbardml/)] | 
-
-
+|eSEN     |Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=lvvMwGUam6)] [[**Code**](https://github.com/facebookresearch/fairchem)] |     
+|-     |The dark side of the forces: assessing non-conservative force models for atomistic machine learning (ICML2025) [[**Paper**](https://openreview.net/forum?id=OEl3L8osas)] |     
 
 ## Benchmark
 |Method         |           Paper            |
