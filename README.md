@@ -110,6 +110,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ADiT      |All-atom Diffusion Transformers: Unified generative modelling of molecules and materials (ICML2025) [[**Paper**](https://openreview.net/forum?id=89QPmZjIhv)]  [[**Code**](https://github.com/facebookresearch/all-atom-diffusion-transformer)] |   
 |UniMate      |UniMate: A Unified Model for Mechanical Metamaterial Generation, Property Prediction, and Condition Confirmation (ICML2025) [[**Paper**](https://openreview.net/forum?id=X7uVxeFS9A)]  [[**Code**](https://github.com/wzhan24/UniMate)] |   
 |-  |Inverse design of metal-organic frameworks using deep dreaming approaches (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59952-3)] [[**Code**](https://github.com/SarkisovTeam/dreaming4MOFs)]     |
+|VQCrystal  |Massive discovery of crystal structures across dimensionalities by leveraging vector quantization (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01613-6)] [[**Code**](https://github.com/Fatemoisted/VQCrystal)]     |
 
 ## Aiding Characterization
 |Method         |           Paper            |
