@@ -46,7 +46,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-        |Automatic identification of slip pathways in ductile inorganic materials by combining the active learning strategy and NEB method (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01531-7)]   | 
 |BETE-NET       |Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01475-4)]   [[**Code**](https://github.com/henniggroup/BETE-NET)] | 
 |HiBoFL      |Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01583-9)]   [[**Code**](https://github.com/mf-wu/HiBoFL)] | 
-|Rep-CodeGen      |Code-Generated Graph Representations Using Multiple LLM Agents for Material Properties Prediction (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/44181)]  | 
+|Rep-CodeGen      |Code-Generated Graph Representations Using Multiple LLM Agents for Material Properties Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=lvvMwGUam6)]  | 
 |-        | A framework to evaluate machine learning crystal stability predictions (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01055-1?fromPaywallRec=false)]  | 
 
 
@@ -102,10 +102,10 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Chemeleon   | Exploration of crystal chemical space using text-guided generative artificial intelligence (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59636-y)] [[**Code**](https://github.com/hspark1212/chemeleon/)]     |
 |MAGECS   |Inverse design of promising electrocatalysts for CO2 reduction via generative models and bird swarm algorithm (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55613-z)] [[**Code**](https://github.com/szl666/CO2RR-inverse-design)]     |
 |PGH-VAEs        |Inverse design of catalytic active sites via interpretable topology-based deep generative models (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01649-8)]   [[**Code**](https://github.com/PKUsam2023/PGH-VAEs)] | 
-|WyFormer       |Wyckoff Transformer: Generation of Symmetric Crystals (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/44595)]  | 
-|KLDM      |Kinetic Langevin Diffusion for Crystalline Materials Generation (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/46331)]  | 
-|WyckoffDiff      |WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/45457)]  | 
-|OMG      |Open Materials Generation with Stochastic Interpolants (ICML2025) [[**Paper**](https://icml.cc/virtual/2025/poster/44483)]  |     
+|WyFormer       |Wyckoff Transformer: Generation of Symmetric Crystals (ICML2025) [[**Paper**](https://openreview.net/forum?id=eFHfRQRjJo)]  [[**Code**](https://github.com/SymmetryAdvantage/WyckoffTransformer)]  | 
+|KLDM      |Kinetic Langevin Diffusion for Crystalline Materials Generation (ICML2025) [[**Paper**](https://openreview.net/forum?id=7J1kwZY72h)]  | 
+|WyckoffDiff      |WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry (ICML2025) [[**Paper**](https://openreview.net/forum?id=OHPBPveXdg)]   [[**Code**](https://github.com/httk/wyckoffdiff)]| 
+|OMG      |Open Materials Generation with Stochastic Interpolants (ICML2025) [[**Paper**](https://openreview.net/forum?id=gHGrzxFujU)]  [[**Code**](https://github.com/FERMat-ML/OMatG)] |     
 |-  |Inverse design of metal-organic frameworks using deep dreaming approaches (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59952-3)] [[**Code**](https://github.com/SarkisovTeam/dreaming4MOFs)]     |
 
 ## Aiding Characterization
