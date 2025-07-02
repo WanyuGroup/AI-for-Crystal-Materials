@@ -108,6 +108,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |WyckoffDiff      |WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry (ICML2025) [[**Paper**](https://openreview.net/forum?id=OHPBPveXdg)]   [[**Code**](https://github.com/httk/wyckoffdiff)]| 
 |OMG      |Open Materials Generation with Stochastic Interpolants (ICML2025) [[**Paper**](https://openreview.net/forum?id=gHGrzxFujU)]  [[**Code**](https://github.com/FERMat-ML/OMatG)] |     
 |ADiT      |All-atom Diffusion Transformers: Unified generative modelling of molecules and materials (ICML2025) [[**Paper**](https://openreview.net/forum?id=89QPmZjIhv)]  [[**Code**](https://github.com/facebookresearch/all-atom-diffusion-transformer)] |   
+|UniMate      |UniMate: A Unified Model for Mechanical Metamaterial Generation, Property Prediction, and Condition Confirmation (ICML2025) [[**Paper**](https://openreview.net/forum?id=X7uVxeFS9A)]  [[**Code**](https://github.com/wzhan24/UniMate)] |   
 |-  |Inverse design of metal-organic frameworks using deep dreaming approaches (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59952-3)] [[**Code**](https://github.com/SarkisovTeam/dreaming4MOFs)]     |
 
 ## Aiding Characterization
@@ -149,6 +150,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |DeepRelax     |Scalable crystal structure relaxation using an iteration-free deep generative model with uncertainty quantification  (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-52378-3)]   [[**Code**](https://github.com/Shen-Group/DeepRelax)]  | 
 |AssembleFlow     |AssembleFlow: Rigid Flow Matching with Inertial Frames for Molecular Assembly  (ICLR2025) [[**Paper**](https://openreview.net/forum?id=jckKNzYYA6)]  |  
 |-      |Machine learning Hubbard parameters with equivariant neural networks (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01501-5)]   [[**Code**](https://github.com/camml-lab/hubbardml/)] | 
+|PIWSL     |Physics-Informed Weakly Supervised Learning For Interatomic Potentials (ICML2025) [[**Paper**](https://openreview.net/forum?id=dlshKV0S9t)] [[**Code**](https://github.com/nec-research/PICPS-ML4Sci)] |  
 |eSEN     |Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=lvvMwGUam6)] [[**Code**](https://github.com/facebookresearch/fairchem)] |     
 |-     |The dark side of the forces: assessing non-conservative force models for atomistic machine learning (ICML2025) [[**Paper**](https://openreview.net/forum?id=OEl3L8osas)] |     
 
