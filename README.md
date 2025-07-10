@@ -157,7 +157,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-      |Machine learning Hubbard parameters with equivariant neural networks (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01501-5)]   [[**Code**](https://github.com/camml-lab/hubbardml/)] | 
 |PIWSL     |Physics-Informed Weakly Supervised Learning For Interatomic Potentials (ICML2025) [[**Paper**](https://openreview.net/forum?id=dlshKV0S9t)] [[**Code**](https://github.com/nec-research/PICPS-ML4Sci)] |  
 |ELoRA     |ELoRA: Low-Rank Adaptation for Equivariant GNNs (ICML2025) [[**Paper**](https://openreview.net/forum?id=hcoxm3Vwgy)] [[**Code**](https://github.com/hyjwpk/ELoRA)] |  
-|eSEN     |Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=lvvMwGUam6)] [[**Code**](https://github.com/facebookresearch/fairchem)] |     
+|eSEN     |Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=R0PBjxIbgm)] [[**Code**](https://github.com/facebookresearch/fairchem)] |     
 |-     |The dark side of the forces: assessing non-conservative force models for atomistic machine learning (ICML2025) [[**Paper**](https://openreview.net/forum?id=OEl3L8osas)] |     
 
 ## Benchmark
