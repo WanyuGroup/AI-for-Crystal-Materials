@@ -50,7 +50,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Rep-CodeGen      |Code-Generated Graph Representations Using Multiple LLM Agents for Material Properties Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=lvvMwGUam6)]  | 
 |-     |Learning the Electronic Hamiltonian of Large Atomic Structures (ICML2025) [[**Paper**](https://openreview.net/forum?id=WGejWCgrpD)]  | 
 |-        | A framework to evaluate machine learning crystal stability predictions (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01055-1?fromPaywallRec=false)]  | 
-
+|CSLLM        | Accurate prediction of synthesizability and precursors of 3D crystal structures via large language models (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-61778-y)]   [[**Code**](https://github.com/szl666/CSLLM)]   | 
+|LLM-Prop        | LLM-Prop: predicting the properties of crystalline materials using large language models (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01536-2?fromPaywallRec=false)]   [[**Code**](https://github.com/vertaix/LLM-Prop)]   | 
+|-      | Faithful novel machine learning for predicting quantum properties (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01655-w?fromPaywallRec=false)]   [[**Code**](https://github.com/gnnop/Faithful-novel-machine-learning-for-predicting-quantum-properties)]   | 
 
 ## Crystalline Material Synthesis
 
@@ -80,6 +82,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrystaLLM          | Crystal structure generation with autoregressive large language modeling (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-54639-7)][[**Code**](https://github.com/lantunes/CrystaLLM)]     | 
 |Con-CDVAE          | Con-CDVAE: A method for the conditional generation of crystal structures (Computational Materials Today, 2024) [[**Paper**](https://www.sciencedirect.com/science/article/pii/S2950463524000036)][[**Code**](https://github.com/cyye001/Con-CDVAE)]     | 
 |Cond-CDVAE         | Deep learning generative model for crystal structure prediction (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01443-y?fromPaywallRec=false)][[**Code**](https://github.com/ixsluo/cond-cdvae)]     | 
+|LCMGM        | A deep generative modeling architecture for designing lattice-constrained perovskite materials (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01381-9?fromPaywallRec=false)]   [[**Code**](https://github.com/chenebuah/LCMGM)]   | 
 |CrystalFormer          | Space Group Informed Transformer for Crystalline Materials Generation (Arxiv, 2024) [[**Paper**](https://arxiv.org/abs/2403.15734)][[**Code**](https://github.com/deepmodeling/CrystalFormer)]     | 
 |Gruver         | Fine-Tuned Language Models Generate Stable Inorganic Materials as Text (ICLR2024) [[**Paper**](https://openreview.net/forum?id=vN9fpfqoP1)][[**Code**](https://github.com/facebookresearch/crystal-text-llm)]     | 
 |FlowLLM         | FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=0bFXbEMz8e)][[**Code**](https://github.com/facebookresearch/flowmm)]     | 
@@ -113,6 +116,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |UniMate      |UniMate: A Unified Model for Mechanical Metamaterial Generation, Property Prediction, and Condition Confirmation (ICML2025) [[**Paper**](https://openreview.net/forum?id=X7uVxeFS9A)]  [[**Code**](https://github.com/wzhan24/UniMate)] |   
 |-  |Inverse design of metal-organic frameworks using deep dreaming approaches (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59952-3)] [[**Code**](https://github.com/SarkisovTeam/dreaming4MOFs)]     |
 |VQCrystal  |Massive discovery of crystal structures across dimensionalities by leveraging vector quantization (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01613-6)] [[**Code**](https://github.com/Fatemoisted/VQCrystal)]     |
+|-        | Generative deep learning for predicting ultrahigh lattice thermal conductivity materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01592-8?fromPaywallRec=false)]    | 
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -128,7 +133,10 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |XRD-AutoAnalyzer         | Integrated analysis of X-ray diffraction patterns and pair distribution functions for machine-learned phase identification  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01230-9?fromPaywallRec=false)] [[**Code**](https://github.com/njszym/XRD-AutoAnalyzer)]     | 
 |CrystalNet          | Towards end-to-end structure determination from x-ray diffraction data using deep learning  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01401-8)] [[**Code**](https://github.com/gabeguo/deep-crystallography-public)]     | 
 |-          | Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model  (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=GB5a0RRYuv)] [[**Code**](https://github.com/MasterAI-EAM/Material-Knowledge-Graph)]     | 
+|-  |Structured information extraction from scientific text with large language models (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-45563-x?fromPaywallRec=false)] [[**Code**](https://github.com/LBNLP/NERRE)]     |
+|-  |Accelerating materials language processing with large language models (Communications Materials, 2024) [[**Paper**](https://www.nature.com/articles/s43246-024-00449-9?fromPaywallRec=false)] [[**Code**](https://github.com/jwchoi95/GPT_MLP)]     |
 |MatDuck         |Zero-Shot Learning for Materials Science Texts: Leveraging Duck Typing Principles (AAAI2025) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/32100)] [[**Code**](https://github.com/xinzcode/MatDuck)]   | 
+|SLM-MATRIX        | SLM-MATRIX: a multi-agent trajectory reasoning and verification framework for enhancing language models in materials data extraction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01719-x)]   [[**Code**](https://github.com/AmberGTP5/SLM-MATRIX)]   | 
 |-         |Unsupervised identification of crystal defects from atomistic potential descriptors (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01544-2)]  | 
 |PAGL        |Learning to predict rare events: the case of abnormal grain growth (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01530-8)]  | 
 |PXRDnet     | Ab initio structure solutions from nanocrystalline powder diffraction data via diffusion models (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02220-y)] [[**Code**](https://github.com/gabeguo/cdvae_xrd)]     |
