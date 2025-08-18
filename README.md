@@ -119,6 +119,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-        | Generative deep learning for predicting ultrahigh lattice thermal conductivity materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01592-8?fromPaywallRec=false)]    | 
 
 
+
 ## Aiding Characterization
 |Method         |           Paper            |
 |----------------|-------------------------------|
@@ -142,6 +143,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PAGL        |Learning to predict rare events: the case of abnormal grain growth (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01530-8)]  | 
 |PXRDnet     | Ab initio structure solutions from nanocrystalline powder diffraction data via diffusion models (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02220-y)] [[**Code**](https://github.com/gabeguo/cdvae_xrd)]     |
 |SBC       |Automated identification of bulk structures, two-dimensional materials, and interfaces using symmetry-based clustering (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01498-x)]   [[**Code**](https://github.com/nomad-coe/matid)] | 
+|PXRDGen   |Powder diffraction crystal structure determination using generative models (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-62708-8)] [[**Code**](https://codeocean.com/capsule/7727770/tree/v1)]     |
+
 
 
 ## Accelerating Theoretical Computation
