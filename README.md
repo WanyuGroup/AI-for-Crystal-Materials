@@ -182,7 +182,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SimXRD         |SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark (ICLR2025) [[**Paper**](https://openreview.net/forum?id=mkuB677eMM)]  [[**Code**](https://github.com/Bin-Cao/SimXRD)]   | 
 |ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
 |MaCBench         |Probing the limitations of multimodal language models for chemistry and materials research (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00836-3)]  [[**Code**](https://github.com/lamalab-org/chembench/)]   | 
-
+|MatGL         | Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01742-y)][[**Code**](https://github.com/materialsvirtuallab/matgl)]     |
 
 ## Common Dataset 
 
