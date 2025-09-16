@@ -119,7 +119,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-  |Inverse design of metal-organic frameworks using deep dreaming approaches (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59952-3)] [[**Code**](https://github.com/SarkisovTeam/dreaming4MOFs)]     |
 |VQCrystal  |Massive discovery of crystal structures across dimensionalities by leveraging vector quantization (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01613-6)] [[**Code**](https://github.com/Fatemoisted/VQCrystal)]     |
 |-        | Generative deep learning for predicting ultrahigh lattice thermal conductivity materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01592-8?fromPaywallRec=false)]    | 
-
+|-   | Machine learning-assisted Ru-N bond regulation for ammonia synthesis (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-63064-3)]    |
 
 
 ## Aiding Characterization
