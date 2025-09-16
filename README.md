@@ -53,6 +53,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CSLLM        | Accurate prediction of synthesizability and precursors of 3D crystal structures via large language models (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-61778-y)]   [[**Code**](https://github.com/szl666/CSLLM)]   | 
 |LLM-Prop        | LLM-Prop: predicting the properties of crystalline materials using large language models (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01536-2?fromPaywallRec=false)]   [[**Code**](https://github.com/vertaix/LLM-Prop)]   | 
 |-      | Faithful novel machine learning for predicting quantum properties (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01655-w?fromPaywallRec=false)]   [[**Code**](https://github.com/gnnop/Faithful-novel-machine-learning-for-predicting-quantum-properties)]   | 
+|SciToolAgent         | SciToolAgent: a knowledge-graph-driven scientific agent for multitool integration (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00849-y)][[**Code**](https://github.com/hicai-zju/scitoolagent)]     | 
+
 
 ## Crystalline Material Synthesis
 
