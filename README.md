@@ -47,6 +47,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-        |Automatic identification of slip pathways in ductile inorganic materials by combining the active learning strategy and NEB method (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01531-7)]   | 
 |BETE-NET       |Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01475-4)]   [[**Code**](https://github.com/henniggroup/BETE-NET)] | 
 |HiBoFL      |Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01583-9)]   [[**Code**](https://github.com/mf-wu/HiBoFL)] | 
+|PDDFormer          | PDDFormer: Pairwise Distance Distribution Graph Transformer for Crystal Material Property Prediction (IJCAI2025) [[**Paper**](https://www.ijcai.org/proceedings/2025/0859.pdf)]     | 
 |Rep-CodeGen      |Code-Generated Graph Representations Using Multiple LLM Agents for Material Properties Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=lvvMwGUam6)]  | 
 |-     |Learning the Electronic Hamiltonian of Large Atomic Structures (ICML2025) [[**Paper**](https://openreview.net/forum?id=WGejWCgrpD)]  [[**Code**](https://github.com/chexia8/large_atomic_structures)]  | 
 |-        | A framework to evaluate machine learning crystal stability predictions (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01055-1?fromPaywallRec=false)]  | 
@@ -149,7 +150,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SBC       |Automated identification of bulk structures, two-dimensional materials, and interfaces using symmetry-based clustering (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01498-x)]   [[**Code**](https://github.com/nomad-coe/matid)] | 
 |DefiNet   |Modeling crystal defects using defect informed neural networks (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01728-w)] [[**Code**](https://github.com/Shen-Group/DefiNet)]     |
 |PXRDGen   |Powder diffraction crystal structure determination using generative models (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-62708-8)] [[**Code**](https://codeocean.com/capsule/7727770/tree/v1)]     |
-
+|Mat-Instruction          | Mat-Instructions: A Large-Scale Inorganic Material Instruction Dataset for Large Language Models (IJCAI2025) [[**Paper**](https://www.ijcai.org/proceedings/2025/1089.pdf)]     | 
 
 
 ## Accelerating Theoretical Computation
