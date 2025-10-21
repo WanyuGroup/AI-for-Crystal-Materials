@@ -55,7 +55,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |LLM-Prop        | LLM-Prop: predicting the properties of crystalline materials using large language models (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01536-2?fromPaywallRec=false)]   [[**Code**](https://github.com/vertaix/LLM-Prop)]   | 
 |-      | Faithful novel machine learning for predicting quantum properties (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01655-w?fromPaywallRec=false)]   [[**Code**](https://github.com/gnnop/Faithful-novel-machine-learning-for-predicting-quantum-properties)]   | 
 |SciToolAgent         | SciToolAgent: a knowledge-graph-driven scientific agent for multitool integration (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00849-y)][[**Code**](https://github.com/hicai-zju/scitoolagent)]     | 
-
+|SPFrame          | Local-Global Associative Frames for Symmetry-Preserving Crystal Structure Modeling (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/118593)]    | 
+|SurFF        | SurFF: a foundation model for surface exposure and morphology across intermetallic crystals  (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00839-0)][[**Code**](https://github.com/Long1Corn/SurFF)]     | 
 
 ## Crystalline Material Synthesis
 
@@ -123,7 +124,11 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |VQCrystal  |Massive discovery of crystal structures across dimensionalities by leveraging vector quantization (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01613-6)] [[**Code**](https://github.com/Fatemoisted/VQCrystal)]     |
 |-        | Generative deep learning for predicting ultrahigh lattice thermal conductivity materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01592-8?fromPaywallRec=false)]    | 
 |-   | Machine learning-assisted Ru-N bond regulation for ammonia synthesis (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-63064-3)]    |
-
+|MACS          | MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/117463)]    | 
+|SGEquiDiff          | Space Group Equivariant Crystal Diffusion (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/118355)]   [[**Code**](https://github.com/rees-c/sgequidiff)]    | 
+|CrysLLMGen          | LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/119163)]    | 
+|MOF-BFN          | MOF-BFN: Metal-Organic Frameworks Structure Prediction via Bayesian Flow Networks (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/115964)]    | 
+|-      | Flexible MOF Generation with Torsion-Aware Flow Matching (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/117103)]    | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -151,6 +156,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |DefiNet   |Modeling crystal defects using defect informed neural networks (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01728-w)] [[**Code**](https://github.com/Shen-Group/DefiNet)]     |
 |PXRDGen   |Powder diffraction crystal structure determination using generative models (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-62708-8)] [[**Code**](https://codeocean.com/capsule/7727770/tree/v1)]     |
 |Mat-Instruction          | Mat-Instructions: A Large-Scale Inorganic Material Instruction Dataset for Large Language Models (IJCAI2025) [[**Paper**](https://www.ijcai.org/proceedings/2025/1089.pdf)]     | 
+|Daisy     |Data-driven microstructural optimization of Ag-Bi-I perovskite-inspired materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01701-7)]   [[**Code**](https://github.com/uwsunlab/Daisy)] | 
 
 
 ## Accelerating Theoretical Computation
@@ -177,6 +183,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ELoRA     |ELoRA: Low-Rank Adaptation for Equivariant GNNs (ICML2025) [[**Paper**](https://openreview.net/forum?id=hcoxm3Vwgy)] [[**Code**](https://github.com/hyjwpk/ELoRA)] |  
 |eSEN     |Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=R0PBjxIbgm)] [[**Code**](https://github.com/facebookresearch/fairchem)] |     
 |-     |The dark side of the forces: assessing non-conservative force models for atomistic machine learning (ICML2025) [[**Paper**](https://openreview.net/forum?id=OEl3L8osas)] |     
+|UMA          | UMA: A Family of Universal Models for Atoms (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/117891)]    | 
+|MLIP Arena          |MLIP Arena: Advancing Fairness and Transparency in Machine Learning Interatomic Potentials via an Open, Accessible Benchmark Platform (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/121648)]   [[**Code**](https://github.com/atomind-ai/mlip-arena)]    | 
+|LiFlow        | Flow matching for accelerated simulation of atomic transport in crystalline materials  (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01125-4)][[**Code**](https://github.com/learningmatter-mit/liflow)]     | 
 
 ## Benchmark
 |Method         |           Paper            |
