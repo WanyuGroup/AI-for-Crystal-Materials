@@ -201,6 +201,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
 |MaCBench         |Probing the limitations of multimodal language models for chemistry and materials research (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00836-3)]  [[**Code**](https://github.com/lamalab-org/chembench/)]   | 
 |MatGL         | Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01742-y)][[**Code**](https://github.com/materialsvirtuallab/matgl)]     |
+|-     |Mining extreme properties from a large metamaterial database  (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-64745-9)]   [[**Code**](https://data.4tu.nl/datasets/03961539-129b-43b6-9c55-cfd3f5d40a8d)]  | 
+
 
 ## Common Dataset 
 
