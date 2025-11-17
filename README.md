@@ -131,7 +131,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-      | Flexible MOF Generation with Torsion-Aware Flow Matching (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/117103)]    | 
 |CrystalFlow  |CrystalFlow: a flow-based generative model for crystalline materials (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-64364-4)] [[**Code**](https://github.com/ixsluo/CrystalFlow)]     |
 |SCIGEN  |Structural constraint integration in a generative model for the discovery of quantum materials (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02355-y)] [[**Code**](https://github.com/RyotaroOKabe/SCIGEN)]     |
-
+|MatSci-LLMs  |Enabling large language models for real-world materials discovery (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01058-y?fromPaywallRec=false)]    |
 
 ## Aiding Characterization
 |Method         |           Paper            |
