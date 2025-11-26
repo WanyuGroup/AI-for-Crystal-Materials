@@ -195,7 +195,11 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |LiFlow        | Flow matching for accelerated simulation of atomic transport in crystalline materials  (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01125-4)][[**Code**](https://github.com/learningmatter-mit/liflow)]     | 
 |E2GNN   |Efficient equivariant model for machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01535-3?fromPaywallRec=false)]   [[**Code**](https://github.com/Shen-Group/E2GNN)] | 
 |AlphaNet   |AlphaNet: scaling up local-frame-based neural network interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01817-w)]   [[**Code**](https://github.com/zmyybc/AlphaNet)] | 
-
+|-   |Accurate machine learning interatomic potentials for polyacene molecular crystals: application to single molecule host-guest systems (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01825-w)]   | 
+|-   |Universal machine learning interatomic potentials are ready for phonons (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01650-1)]   [[**Code**](https://github.com/hyllios/utils/tree/main/)] | 
+|-   |Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59543-2)] [[**Code**](https://github.com/learningmatter-mit/alchemical-mlip)]     |
+|-   |Systematic softening in universal machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01500-6?fromPaywallRec=false)]  | 
+|-   |Cross-functional transferability in foundation machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01796-y)]   [[**Code**](https://github.com/CederGroupHub/chgnet/tree/main/chgnet/pretrained/r2scan)] | 
 
 ## Benchmark
 |Method         |           Paper            |
