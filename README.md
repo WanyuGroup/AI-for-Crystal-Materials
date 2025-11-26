@@ -108,7 +108,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrysBFN          |A Periodic Bayesian Flow for Material Generation (ICLR2025) [[**Paper**](https://openreview.net/forum?id=Lz0XW99tE0)]  [[**Code**](https://github.com/wu-han-lin/CrysBFN)]   | 
 |OSDAs         |OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents (ICLR2025) [[**Paper**](https://openreview.net/forum?id=9YNyiCJE3k)]    | 
 |-          |Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective (ICLR2025) [[**Paper**](https://openreview.net/forum?id=tcvMzR2NrP)]    | 
-|MAGUS        | Efficient crystal structure prediction based on the symmetry principle (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00775-z)]     | 
+|MAGUS        | Efficient crystal structure prediction based on the symmetry principle (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00775-z)]   [[**Code**](https://gitlab.com/bigd4/magus)]    | 
 |Target XXXI        | A robust crystal structure prediction method to support small molecule drug development with large scale validation and blind study (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-57479-1)]    |
 |active-csp       | Accelerating crystal structure search through active learning with neural networks for rapid relaxations (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01523-7)] [[**Code**](https://github.com/stefaanhessmann/active-csp)]     |
 |Chemeleon   | Exploration of crystal chemical space using text-guided generative artificial intelligence (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59636-y)] [[**Code**](https://github.com/hspark1212/chemeleon/)]     |
@@ -131,6 +131,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-      | Flexible MOF Generation with Torsion-Aware Flow Matching (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/117103)]    | 
 |CrystalFlow  |CrystalFlow: a flow-based generative model for crystalline materials (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-64364-4)] [[**Code**](https://github.com/ixsluo/CrystalFlow)]     |
 |SCIGEN  |Structural constraint integration in a generative model for the discovery of quantum materials (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02355-y)] [[**Code**](https://github.com/RyotaroOKabe/SCIGEN)]     |
+
 
 
 ## Aiding Characterization
@@ -160,6 +161,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PXRDGen   |Powder diffraction crystal structure determination using generative models (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-62708-8)] [[**Code**](https://codeocean.com/capsule/7727770/tree/v1)]     |
 |Mat-Instruction          | Mat-Instructions: A Large-Scale Inorganic Material Instruction Dataset for Large Language Models (IJCAI2025) [[**Paper**](https://www.ijcai.org/proceedings/2025/1089.pdf)]     | 
 |Daisy     |Data-driven microstructural optimization of Ag-Bi-I perovskite-inspired materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01701-7)]   [[**Code**](https://github.com/uwsunlab/Daisy)] | 
+|CrystalShift     |Probabilistic phase labeling and lattice refinement for autonomous materials research (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01627-0)] | 
+|-     |FerroAI: a deep learning model for predicting phase diagrams of ferroelectric materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01778-0)]   [[**Code**](https://huggingface.co/FerroAI/FerroAI)] | 
+
 
 
 ## Accelerating Theoretical Computation
@@ -189,6 +193,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |UMA          | UMA: A Family of Universal Models for Atoms (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/117891)]    | 
 |MLIP Arena          |MLIP Arena: Advancing Fairness and Transparency in Machine Learning Interatomic Potentials via an Open, Accessible Benchmark Platform (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/121648)]   [[**Code**](https://github.com/atomind-ai/mlip-arena)]    | 
 |LiFlow        | Flow matching for accelerated simulation of atomic transport in crystalline materials  (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01125-4)][[**Code**](https://github.com/learningmatter-mit/liflow)]     | 
+|E2GNN   |Efficient equivariant model for machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01535-3?fromPaywallRec=false)]   [[**Code**](https://github.com/Shen-Group/E2GNN)] | 
+|AlphaNet   |AlphaNet: scaling up local-frame-based neural network interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01817-w)]   [[**Code**](https://github.com/zmyybc/AlphaNet)] | 
+
 
 ## Benchmark
 |Method         |           Paper            |
