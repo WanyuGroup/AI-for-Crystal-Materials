@@ -131,7 +131,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-      | Flexible MOF Generation with Torsion-Aware Flow Matching (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/117103)]    | 
 |CrystalFlow  |CrystalFlow: a flow-based generative model for crystalline materials (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-64364-4)] [[**Code**](https://github.com/ixsluo/CrystalFlow)]     |
 |SCIGEN  |Structural constraint integration in a generative model for the discovery of quantum materials (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02355-y)] [[**Code**](https://github.com/RyotaroOKabe/SCIGEN)]     |
-
+|InvDesFlow-AL   |InvDesFlow-AL: active learning-based workflow for inverse design of functional materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01830-z)]   [[**Code**](https://github.com/xqh19970407/InvDesFlow-AL)] | 
 
 
 ## Aiding Characterization
@@ -200,6 +200,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-   |Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-59543-2)] [[**Code**](https://github.com/learningmatter-mit/alchemical-mlip)]     |
 |-   |Systematic softening in universal machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01500-6?fromPaywallRec=false)]  | 
 |-   |Cross-functional transferability in foundation machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01796-y)]   [[**Code**](https://github.com/CederGroupHub/chgnet/tree/main/chgnet/pretrained/r2scan)] | 
+|-   |A foundation machine learning potential with polarizable long-range interactions for materials modelling (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-65496-3)] [[**Code**](https://github.com/reaxnet/reaxnet)]     |
+
 
 ## Benchmark
 |Method         |           Paper            |
