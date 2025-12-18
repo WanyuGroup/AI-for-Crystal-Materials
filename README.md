@@ -58,7 +58,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SPFrame          | Local-Global Associative Frames for Symmetry-Preserving Crystal Structure Modeling (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/118593)]    | 
 |SurFF        | SurFF: a foundation model for surface exposure and morphology across intermetallic crystals  (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00839-0)][[**Code**](https://github.com/Long1Corn/SurFF)]     | 
 
-## Crystalline Material Synthesis
+## Crystalline Material Generative Design
 
 |Method         |           Paper            |
 |----------------|-------------------------------|
@@ -132,7 +132,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrystalFlow  |CrystalFlow: a flow-based generative model for crystalline materials (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-64364-4)] [[**Code**](https://github.com/ixsluo/CrystalFlow)]     |
 |SCIGEN  |Structural constraint integration in a generative model for the discovery of quantum materials (Nature Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41563-025-02355-y)] [[**Code**](https://github.com/RyotaroOKabe/SCIGEN)]     |
 |InvDesFlow-AL   |InvDesFlow-AL: active learning-based workflow for inverse design of functional materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01830-z)]   [[**Code**](https://github.com/xqh19970407/InvDesFlow-AL)] | 
-
+|CRYSIM    |Predicting symmetric structures of large crystals with GPU-based Ising machines (Communications Physics, 2025) [[**Paper**](https://www.nature.com/articles/s42005-025-02380-y)]    [[**Code**](https://github.com/tsudalab/CRYSIM)]  | 
+|CrystalICL   |CrystalICL: Enabling In-Context Learning for Crystal Generation (EMNLP2025) [[**Paper**](https://aclanthology.org/2025.emnlp-main.929/)]  | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
