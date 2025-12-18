@@ -58,7 +58,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SPFrame          | Local-Global Associative Frames for Symmetry-Preserving Crystal Structure Modeling (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/118593)]    | 
 |SurFF        | SurFF: a foundation model for surface exposure and morphology across intermetallic crystals  (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00839-0)][[**Code**](https://github.com/Long1Corn/SurFF)]     | 
 
-## Crystalline Material Design
+## Crystalline Material Generative Design
 
 |Method         |           Paper            |
 |----------------|-------------------------------|
