@@ -53,7 +53,6 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-      | Faithful novel machine learning for predicting quantum properties (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01655-w?fromPaywallRec=false)]   [[**Code**](https://github.com/gnnop/Faithful-novel-machine-learning-for-predicting-quantum-properties)]   | 
 |SciToolAgent         | SciToolAgent: a knowledge-graph-driven scientific agent for multitool integration (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00849-y)][[**Code**](https://github.com/hicai-zju/scitoolagent)]     | 
 |SPFrame          | Local-Global Associative Frames for Symmetry-Preserving Crystal Structure Modeling (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/118593)]    | 
-|SurFF        | SurFF: a foundation model for surface exposure and morphology across intermetallic crystals  (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00839-0)][[**Code**](https://github.com/Long1Corn/SurFF)]     | 
 
 ## Crystalline Material Generative Design
 
@@ -203,6 +202,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-   |Systematic softening in universal machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01500-6?fromPaywallRec=false)]  | 
 |-   |Cross-functional transferability in foundation machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01796-y)]   [[**Code**](https://github.com/CederGroupHub/chgnet/tree/main/chgnet/pretrained/r2scan)] | 
 |-   |A foundation machine learning potential with polarizable long-range interactions for materials modelling (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-65496-3)] [[**Code**](https://github.com/reaxnet/reaxnet)]     |
+|SurFF        | SurFF: a foundation model for surface exposure and morphology across intermetallic crystals  (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00839-0)][[**Code**](https://github.com/Long1Corn/SurFF)]     | 
 
 
 ## Benchmark
