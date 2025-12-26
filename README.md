@@ -97,10 +97,10 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ShotgunCSP      |Shotgun crystal structure prediction using machine-learned formation energies (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01471-8)]   [[**Code**](https://github.com/TsumiNa/ShotgunCSP)] | 
 |MatterGen         | A generative model for inorganic materials design (Nature, 2025) [[**Paper**](https://www.nature.com/articles/s41586-025-08628-5)][[**Code**](https://github.com/microsoft/mattergen)]     | 
 |SymmCD         |SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models (ICLR2025) [[**Paper**](https://openreview.net/forum?id=xnssGv9rpW)][[**Code**](https://github.com/sibasmarak/SymmCD)]     | 
-|MatExpert         |MatExpert: Decomposing Materials Discovery By Mimicking Human Experts (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AUBvo4sxVL)]    | 
+|MatExpert         |MatExpert: Decomposing Materials Discovery By Mimicking Human Experts (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AUBvo4sxVL)]    [[**Code**](https://github.com/BangLab-UdeM-Mila/MatExpert)]  | 
 |-         |Designing Mechanical Meta-Materials by Learning Equivariant Flows (ICLR2025) [[**Paper**](https://openreview.net/forum?id=VMurwgAFWP)]    | 
-|MOFFlow         |MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks (ICLR2025) [[**Paper**](https://openreview.net/forum?id=dNT3abOsLo)]   | 
-|TGDMat          |Periodic Materials Generation using Text-Guided Joint Diffusion Model (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AkBrb7yQ0G)]    | 
+|MOFFlow         |MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks (ICLR2025) [[**Paper**](https://openreview.net/forum?id=dNT3abOsLo)]  [[**Code**](https://github.com/nayoung10/MOFFlow)]   | 
+|TGDMat          |Periodic Materials Generation using Text-Guided Joint Diffusion Model (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AkBrb7yQ0G)]   [[**Code**](https://github.com/kdmsit/TGDMat)]    | 
 |CrysBFN          |A Periodic Bayesian Flow for Material Generation (ICLR2025) [[**Paper**](https://openreview.net/forum?id=Lz0XW99tE0)]  [[**Code**](https://github.com/wu-han-lin/CrysBFN)]   | 
 |OSDAs         |OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents (ICLR2025) [[**Paper**](https://openreview.net/forum?id=9YNyiCJE3k)]    | 
 |-          |Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective (ICLR2025) [[**Paper**](https://openreview.net/forum?id=tcvMzR2NrP)]    | 
