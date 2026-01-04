@@ -130,6 +130,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |InvDesFlow-AL   |InvDesFlow-AL: active learning-based workflow for inverse design of functional materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01830-z)]   [[**Code**](https://github.com/xqh19970407/InvDesFlow-AL)] | 
 |CRYSIM    |Predicting symmetric structures of large crystals with GPU-based Ising machines (Communications Physics, 2025) [[**Paper**](https://www.nature.com/articles/s42005-025-02380-y)]    [[**Code**](https://github.com/tsudalab/CRYSIM)]  | 
 |CrystalICL   |CrystalICL: Enabling In-Context Learning for Crystal Generation (EMNLP2025) [[**Paper**](https://aclanthology.org/2025.emnlp-main.929/)]  | 
+|-   |Networking autonomous material exploration systems through transfer learning (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01851-8)]   [[**Code**](https://github.com/IgarashiLab/autonomous-material-network)] | 
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
