@@ -131,7 +131,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CRYSIM    |Predicting symmetric structures of large crystals with GPU-based Ising machines (Communications Physics, 2025) [[**Paper**](https://www.nature.com/articles/s42005-025-02380-y)]    [[**Code**](https://github.com/tsudalab/CRYSIM)]  | 
 |CrystalICL   |CrystalICL: Enabling In-Context Learning for Crystal Generation (EMNLP2025) [[**Paper**](https://aclanthology.org/2025.emnlp-main.929/)]  | 
 |-   |Networking autonomous material exploration systems through transfer learning (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01851-8)]   [[**Code**](https://github.com/IgarashiLab/autonomous-material-network)] | 
-
+|PODGen  |Materials discovery acceleration by using conditional generative methodology (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01930-w)]   [[**Code**](https://github.com/cyye001/PODGen)] | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
