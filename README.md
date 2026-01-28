@@ -53,6 +53,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-      | Faithful novel machine learning for predicting quantum properties (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01655-w?fromPaywallRec=false)]   [[**Code**](https://github.com/gnnop/Faithful-novel-machine-learning-for-predicting-quantum-properties)]   | 
 |SciToolAgent         | SciToolAgent: a knowledge-graph-driven scientific agent for multitool integration (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00849-y)][[**Code**](https://github.com/hicai-zju/scitoolagent)]     | 
 |SPFrame          | Local-Global Associative Frames for Symmetry-Preserving Crystal Structure Modeling (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/118593)]    | 
+|PRDNet          | Beyond Structure: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction (ICLR2026) [[**Paper**](https://openreview.net/forum?id=OfmurJrzlT)]    | 
+|CFT          | A Single Architecture for Representing Invariance Under Any Space Group (ICLR2026) [[**Paper**](https://openreview.net/forum?id=8LZrXh9hhL)]    | 
+|MoMa          | MoMa: A Simple Modular Learning Framework for Material Property Prediction (ICLR2026) [[**Paper**](https://openreview.net/forum?id=jiSt3M25TP)]    | 
 
 ## Crystalline Material Generative Design
 
@@ -132,6 +135,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrystalICL   |CrystalICL: Enabling In-Context Learning for Crystal Generation (EMNLP2025) [[**Paper**](https://aclanthology.org/2025.emnlp-main.929/)]  | 
 |-   |Networking autonomous material exploration systems through transfer learning (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01851-8)]   [[**Code**](https://github.com/IgarashiLab/autonomous-material-network)] | 
 |PODGen  |Materials discovery acceleration by using conditional generative methodology (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01930-w)]   [[**Code**](https://github.com/cyye001/PODGen)] | 
+|OXtal          |An All-Atom Diffusion Model for Organic Crystal Structure Prediction (ICLR2026) [[**Paper**](https://openreview.net/forum?id=6Jd5aBml0y)]    | 
+|LLEMA          | Accelerating Materials Design via LLM-Guided Evolutionary Search (ICLR2026) [[**Paper**](https://openreview.net/forum?id=TIqzhBvCNB)]    | 
+|RG-VFM          | Riemannian Variational Flow Matching for Material and Protein Design (ICLR2026) [[**Paper**](https://openreview.net/forum?id=NlnDselrtl)]    | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -206,6 +212,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-   |A foundation machine learning potential with polarizable long-range interactions for materials modelling (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-65496-3)] [[**Code**](https://github.com/reaxnet/reaxnet)]     |
 |SurFF        | SurFF: a foundation model for surface exposure and morphology across intermetallic crystals  (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00839-0)][[**Code**](https://github.com/Long1Corn/SurFF)]     | 
 |-   |Systematic softening in universal machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01500-6)]   | 
+|-          | Sparsity-promoting Fine-tuning for Equivariant Materials Foundation Model (ICLR2026) [[**Paper**](https://openreview.net/forum?id=moBqB1CUym)]    | 
 
 ## Benchmark
 |Method         |           Paper            |
@@ -221,6 +228,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |MatGL         | Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01742-y)][[**Code**](https://github.com/materialsvirtuallab/matgl)]     |
 |-     |Mining extreme properties from a large metamaterial database  (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-64745-9)]   [[**Code**](https://data.4tu.nl/datasets/03961539-129b-43b6-9c55-cfd3f5d40a8d)]  | 
 |LeMat-GenBench    |A Unified Evaluation Framework for Crystal Generative Models  (NeurIPS2025 Workshop AI4Mat) [[**Paper**](https://arxiv.org/pdf/2512.04562)]   [[**Code**](https://github.com/LeMaterial/lemat-genbench)]  | 
+|HSG-12M          | HSG-12M: A Large-Scale Dataset of Spatial Multigraphs from the Energy Spectra of non-Hermitian Crystals (ICLR2026) [[**Paper**](https://openreview.net/forum?id=YxuKCME576)]    | 
 
 ## Common Dataset 
 
