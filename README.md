@@ -220,7 +220,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Matbench Discovery        | A framework to evaluate machine learning crystal stability predictions (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01055-1?fromPaywallRec=false)] [[**Code**](https://github.com/janosh/matbench-discovery)]   | 
 |MatGL         | Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01742-y)][[**Code**](https://github.com/materialsvirtuallab/matgl)]     |
 |-     |Mining extreme properties from a large metamaterial database  (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-64745-9)]   [[**Code**](https://data.4tu.nl/datasets/03961539-129b-43b6-9c55-cfd3f5d40a8d)]  | 
-|LeMat-GenBench    |A Unified Evaluation Framework for Crystal Generative Models  (NeurIPS2025 AI4Mat) [[**Paper**](https://arxiv.org/pdf/2512.04562)]   [[**Code**](https://github.com/LeMaterial/lemat-genbench)]  | 
+|LeMat-GenBench    |A Unified Evaluation Framework for Crystal Generative Models  (NeurIPS2025 Workshop AI4Mat) [[**Paper**](https://arxiv.org/pdf/2512.04562)]   [[**Code**](https://github.com/LeMaterial/lemat-genbench)]  | 
 
 ## Common Dataset 
 
