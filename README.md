@@ -56,6 +56,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PRDNet          | Beyond Structure: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction (ICLR2026) [[**Paper**](https://openreview.net/forum?id=OfmurJrzlT)]    | 
 |CFT          | A Single Architecture for Representing Invariance Under Any Space Group (ICLR2026) [[**Paper**](https://openreview.net/forum?id=8LZrXh9hhL)]    | 
 |MoMa          | MoMa: A Simple Modular Learning Framework for Material Property Prediction (ICLR2026) [[**Paper**](https://openreview.net/forum?id=jiSt3M25TP)]    | 
+|SpatialRead          | From atom to space: A region-based readout function for spatial properties of materials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=v2oYZJ7Exo)]    | 
+
 
 ## Crystalline Material Generative Design
 
@@ -138,6 +140,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |OXtal          |An All-Atom Diffusion Model for Organic Crystal Structure Prediction (ICLR2026) [[**Paper**](https://openreview.net/forum?id=6Jd5aBml0y)]    | 
 |LLEMA          | Accelerating Materials Design via LLM-Guided Evolutionary Search (ICLR2026) [[**Paper**](https://openreview.net/forum?id=TIqzhBvCNB)]    | 
 |RG-VFM          | Riemannian Variational Flow Matching for Material and Protein Design (ICLR2026) [[**Paper**](https://openreview.net/forum?id=NlnDselrtl)]    | 
+|PRO-MOF         | PRO-MOF: Policy Optimization with Universal Atomistic Models for Controllable MOF Generation (ICLR2026) [[**Paper**](https://openreview.net/forum?id=BIzrFlp0hv)]    | 
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -213,6 +217,10 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SurFF        | SurFF: a foundation model for surface exposure and morphology across intermetallic crystals  (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00839-0)][[**Code**](https://github.com/Long1Corn/SurFF)]     | 
 |-   |Systematic softening in universal machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01500-6)]   | 
 |-          | Sparsity-promoting Fine-tuning for Equivariant Materials Foundation Model (ICLR2026) [[**Paper**](https://openreview.net/forum?id=moBqB1CUym)]    | 
+|NextHAM         | Advancing Universal Deep Learning for Electronic-Structure Hamiltonian Prediction of Materials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=YvmR4vNai2)]    | 
+|MatRIS         |MatRIS: Toward Reliable and Efficient Pretrained Machine Learning Interaction Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=5xBT5Ziute)]    | 
+|DistMLIP         |DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=4tasfBIPxp)]    | 
+
 
 ## Benchmark
 |Method         |           Paper            |
@@ -229,6 +237,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-     |Mining extreme properties from a large metamaterial database  (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-64745-9)]   [[**Code**](https://data.4tu.nl/datasets/03961539-129b-43b6-9c55-cfd3f5d40a8d)]  | 
 |LeMat-GenBench    |A Unified Evaluation Framework for Crystal Generative Models  (NeurIPS2025 Workshop AI4Mat) [[**Paper**](https://arxiv.org/pdf/2512.04562)]   [[**Code**](https://github.com/LeMaterial/lemat-genbench)]  | 
 |HSG-12M          | HSG-12M: A Large-Scale Dataset of Spatial Multigraphs from the Energy Spectra of non-Hermitian Crystals (ICLR2026) [[**Paper**](https://openreview.net/forum?id=YxuKCME576)]    | 
+|CatalystBench         |CatalystBench: A Comprehensive Multi-Task Benchmark for Advancing Language Models in Catalysis Science(ICLR2026) [[**Paper**](https://openreview.net/forum?id=tCFYwPdmT4)]    | 
+
 
 ## Common Dataset 
 
