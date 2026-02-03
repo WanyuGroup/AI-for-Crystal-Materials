@@ -141,7 +141,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |LLEMA          | Accelerating Materials Design via LLM-Guided Evolutionary Search (ICLR2026) [[**Paper**](https://openreview.net/forum?id=TIqzhBvCNB)]    | 
 |RG-VFM          | Riemannian Variational Flow Matching for Material and Protein Design (ICLR2026) [[**Paper**](https://openreview.net/forum?id=NlnDselrtl)]    | 
 |PRO-MOF         | PRO-MOF: Policy Optimization with Universal Atomistic Models for Controllable MOF Generation (ICLR2026) [[**Paper**](https://openreview.net/forum?id=BIzrFlp0hv)]    | 
-
+|DiffSyn        |DiffSyn: a generative diffusion approach to materials synthesis planning (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-025-00949-9)]   [[**Code**](https://github.com/eltonpan/zeosyn_gen)]    | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
