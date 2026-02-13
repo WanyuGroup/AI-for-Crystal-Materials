@@ -57,6 +57,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CFT          | A Single Architecture for Representing Invariance Under Any Space Group (ICLR2026) [[**Paper**](https://openreview.net/forum?id=8LZrXh9hhL)]    | 
 |MoMa          | MoMa: A Simple Modular Learning Framework for Material Property Prediction (ICLR2026) [[**Paper**](https://openreview.net/forum?id=jiSt3M25TP)]    | 
 |SpatialRead          | From atom to space: A region-based readout function for spatial properties of materials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=v2oYZJ7Exo)]    | 
+|-     |A crystal graph convolutional neural network framework for predicting stacking fault energy in concentrated alloys (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01915-9)]   | 
+| PE-AG-GMoE       | Accelerating electron diffraction analysis using graph neural networks and attention mechanisms (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01927-5)]   [[**Code**](https://github.com/amdlou/PE-AG-GMoE)]   | 
 
 
 ## Crystalline Material Generative Design
@@ -143,7 +145,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PRO-MOF         | PRO-MOF: Policy Optimization with Universal Atomistic Models for Controllable MOF Generation (ICLR2026) [[**Paper**](https://openreview.net/forum?id=BIzrFlp0hv)]    | 
 |DiffSyn        |DiffSyn: a generative diffusion approach to materials synthesis planning (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-025-00949-9)]   [[**Code**](https://github.com/eltonpan/zeosyn_gen)]    | 
 |Matra-Genoa       | A generative material transformer using Wyckoff representation (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01940-8)]   [[**Code**](https://github.com/ppdebreuck/matra-genoa)]   | 
-
+|LEGO-xtal  | AI-assisted rapid crystal structure generation towards a target local environment (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01931-9)]   [[**Code**](https://github.com/MaterSim/LEGO-xtal)]   |
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -240,7 +242,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |LeMat-GenBench    |A Unified Evaluation Framework for Crystal Generative Models  (NeurIPS2025 Workshop AI4Mat) [[**Paper**](https://arxiv.org/pdf/2512.04562)]   [[**Code**](https://github.com/LeMaterial/lemat-genbench)]  | 
 |HSG-12M          | HSG-12M: A Large-Scale Dataset of Spatial Multigraphs from the Energy Spectra of non-Hermitian Crystals (ICLR2026) [[**Paper**](https://openreview.net/forum?id=YxuKCME576)]    | 
 |CatalystBench         |CatalystBench: A Comprehensive Multi-Task Benchmark for Advancing Language Models in Catalysis Science(ICLR2026) [[**Paper**](https://openreview.net/forum?id=tCFYwPdmT4)]    | 
-
+|MOFSimBench  |MOFSimBench: evaluating universal machine learning interatomic potentials in metal-organic framework molecular modeling (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01872-3)]   [[**Code**](https://github.com/AI4ChemS/mofsim-bench)]   |
 
 ## Common Dataset 
 
