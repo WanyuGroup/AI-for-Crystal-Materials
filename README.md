@@ -1,5 +1,5 @@
 # AI for Crystal Materials： models and benchmarks
-Here we have collected papers with the theme of "AI for crystalline materials" that have appeared at top machine learning conferences and journals (ICML, ICLR, NeurIPS, AAAI, NPJ, NC, etc.) in recent years. See https://arxiv.org/abs/2408.08044 for details. We will keep this page updated.
+Here we have collected papers with the theme of "AI for crystalline materials" that have appeared at top machine learning conferences and journals (ICML, ICLR, NeurIPS, AAAI, NPJ, NC, etc.) in recent years. See https://arxiv.org/abs/2408.08044 or https://dl.acm.org/doi/10.1145/3794853 for details. We will keep this page updated.
 
 ## Crystalline Material Physicochemical Property Prediction
 
@@ -142,6 +142,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |RG-VFM          | Riemannian Variational Flow Matching for Material and Protein Design (ICLR2026) [[**Paper**](https://openreview.net/forum?id=NlnDselrtl)]    | 
 |PRO-MOF         | PRO-MOF: Policy Optimization with Universal Atomistic Models for Controllable MOF Generation (ICLR2026) [[**Paper**](https://openreview.net/forum?id=BIzrFlp0hv)]    | 
 |DiffSyn        |DiffSyn: a generative diffusion approach to materials synthesis planning (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-025-00949-9)]   [[**Code**](https://github.com/eltonpan/zeosyn_gen)]    | 
+|Matra-Genoa       | A generative material transformer using Wyckoff representation (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01940-8)]   [[**Code**](https://github.com/ppdebreuck/matra-genoa)]   | 
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
