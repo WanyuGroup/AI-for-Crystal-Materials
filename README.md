@@ -59,7 +59,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SpatialRead          | From atom to space: A region-based readout function for spatial properties of materials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=v2oYZJ7Exo)]    | 
 |-     |A crystal graph convolutional neural network framework for predicting stacking fault energy in concentrated alloys (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01915-9)]   | 
 | PE-AG-GMoE       | Accelerating electron diffraction analysis using graph neural networks and attention mechanisms (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01927-5)]   [[**Code**](https://github.com/amdlou/PE-AG-GMoE)]   | 
-|Uni-HamGNN        |A universal spin–orbit-coupled Hamiltonian model for accelerated quantum material discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01196-x)]   [[**Code**](https://github.com/QuantumLab-ZY/HamGNN)]    | 
+
 
 ## Crystalline Material Generative Design
 
@@ -209,6 +209,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |eSEN     |Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=R0PBjxIbgm)] [[**Code**](https://github.com/facebookresearch/fairchem)] |     
 |-     |The dark side of the forces: assessing non-conservative force models for atomistic machine learning (ICML2025) [[**Paper**](https://openreview.net/forum?id=OEl3L8osas)] |     
 |UMA          | UMA: A Family of Universal Models for Atoms (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/117891)]    | 
+|TraceGrad     |TraceGrad: a Framework Learning Expressive SO(3)-equivariant Non-linear Representations for Electronic-Structure Hamiltonian Prediction (ICML2025) [[**Paper**](https://openreview.net/forum?id=sezgRffNiS)] [[**Code**](https://drive.google.com/file/d/1KVWrdCY_fIx88O5Me80EQeIu6A0xUWmT/view)] |    
 |MLIP Arena          |MLIP Arena: Advancing Fairness and Transparency in Machine Learning Interatomic Potentials via an Open, Accessible Benchmark Platform (NeurIPS2025) [[**Paper**](https://neurips.cc/virtual/2025/poster/121648)]   [[**Code**](https://github.com/atomind-ai/mlip-arena)]    | 
 |E2Former         |E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products (NeurIPS2025) [[**Paper**](https://openreview.net/forum?id=ls5L4IMEwt)]   [[**Code**](https://github.com/liyy2/E2Former)]    | 
 |LiFlow        | Flow matching for accelerated simulation of atomic transport in crystalline materials  (Nature Machine Intelligence, 2025) [[**Paper**](https://www.nature.com/articles/s42256-025-01125-4)][[**Code**](https://github.com/learningmatter-mit/liflow)]     | 
@@ -226,7 +227,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |NextHAM         | Advancing Universal Deep Learning for Electronic-Structure Hamiltonian Prediction of Materials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=YvmR4vNai2)]    | 
 |MatRIS         |MatRIS: Toward Reliable and Efficient Pretrained Machine Learning Interaction Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=5xBT5Ziute)]    | 
 |DistMLIP         |DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=4tasfBIPxp)]    | 
-
+|Uni-HamGNN        |A universal spin–orbit-coupled Hamiltonian model for accelerated quantum material discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01196-x)]   [[**Code**](https://github.com/QuantumLab-ZY/HamGNN)]    | 
 
 ## Benchmark
 |Method         |           Paper            |
