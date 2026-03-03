@@ -59,7 +59,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SpatialRead          | From atom to space: A region-based readout function for spatial properties of materials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=v2oYZJ7Exo)]    | 
 |-     |A crystal graph convolutional neural network framework for predicting stacking fault energy in concentrated alloys (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01915-9)]   | 
 | PE-AG-GMoE       | Accelerating electron diffraction analysis using graph neural networks and attention mechanisms (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01927-5)]   [[**Code**](https://github.com/amdlou/PE-AG-GMoE)]   | 
-
+|Uni-HamGNN        |A universal spin–orbit-coupled Hamiltonian model for accelerated quantum material discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01196-x)]   [[**Code**](https://github.com/QuantumLab-ZY/HamGNN)]    | 
 
 ## Crystalline Material Generative Design
 
@@ -146,6 +146,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |DiffSyn        |DiffSyn: a generative diffusion approach to materials synthesis planning (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-025-00949-9)]   [[**Code**](https://github.com/eltonpan/zeosyn_gen)]    | 
 |Matra-Genoa       | A generative material transformer using Wyckoff representation (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01940-8)]   [[**Code**](https://github.com/ppdebreuck/matra-genoa)]   | 
 |LEGO-xtal  | AI-assisted rapid crystal structure generation towards a target local environment (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01931-9)]   [[**Code**](https://github.com/MaterSim/LEGO-xtal)]   |
+|LLaMat        |A family of large language models for materials research with insights into model adaptability in continued pretraining (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01199-8)]   [[**Code**](https://github.com/M3RG-IITD/llamat)]    | 
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
