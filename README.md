@@ -180,7 +180,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Daisy     |Data-driven microstructural optimization of Ag-Bi-I perovskite-inspired materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01701-7)]   [[**Code**](https://github.com/uwsunlab/Daisy)] | 
 |CrystalShift     |Probabilistic phase labeling and lattice refinement for autonomous materials research (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01627-0)] | 
 |-     |FerroAI: a deep learning model for predicting phase diagrams of ferroelectric materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01778-0)]   [[**Code**](https://huggingface.co/FerroAI/FerroAI)] | 
-
+|AMASE      | Real-time experiment-theory closed-loop interaction for autonomous materials science (Science  Advances, 2025) [[**Paper**](https://www.science.org/doi/full/10.1126/sciadv.adu7426)]   | 
 
 
 ## Accelerating Theoretical Computation
