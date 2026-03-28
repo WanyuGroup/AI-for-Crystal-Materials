@@ -236,6 +236,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |MatRIS         |MatRIS: Toward Reliable and Efficient Pretrained Machine Learning Interaction Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=5xBT5Ziute)]    | 
 |DistMLIP         |DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=4tasfBIPxp)]    | 
 |Uni-HamGNN        |A universal spin–orbit-coupled Hamiltonian model for accelerated quantum material discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01196-x)]   [[**Code**](https://github.com/QuantumLab-ZY/HamGNN)]    | 
+|FUSION |Dataset Pruning via Fusing Uncertainty with Structural Information for Optimal Neural Training in Crystal Property Prediction (AAAI, 2026) [[**Paper**](https://doi.org/10.1609/aaai.v40i31.39863)] [[**Code**](https://github.com/tetean/FUSION)] |
 
 ## Benchmark
 |Method         |           Paper            |
