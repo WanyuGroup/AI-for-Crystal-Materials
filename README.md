@@ -61,7 +61,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 | PE-AG-GMoE       | Accelerating electron diffraction analysis using graph neural networks and attention mechanisms (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01927-5)]   [[**Code**](https://github.com/amdlou/PE-AG-GMoE)]   | 
 |TSENN        |Accurate prediction of tensorial spectra using equivariant graph neural network (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-69159-9)]   [[**Code**](https://github.com/qmatyanlab/TSENN)]   | 
 |CLOUD        |CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-70467-3)]   [[**Code**](https://github.com/BattModels/CLOUD)]   |
-|GoeCTP |Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/37004)] [[**Code**](https://github.com/hhw11/GoeCTP-journal-version/tree/main)] |
+|GoeCTP |Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/37004)]  |
 |FUSION |Dataset Pruning via Fusing Uncertainty with Structural Information for Optimal Neural Training in Crystal Property Prediction (AAAI2026) [[**Paper**](https://doi.org/10.1609/aaai.v40i31.39863)] [[**Code**](https://github.com/tetean/FUSION)] |
 
 
