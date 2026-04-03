@@ -190,7 +190,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrystalShift     |Probabilistic phase labeling and lattice refinement for autonomous materials research (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01627-0)] | 
 |-     |FerroAI: a deep learning model for predicting phase diagrams of ferroelectric materials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-025-01778-0)]   [[**Code**](https://huggingface.co/FerroAI/FerroAI)] | 
 |AMASE      | Real-time experiment-theory closed-loop interaction for autonomous materials science (Science  Advances, 2025) [[**Paper**](https://www.science.org/doi/full/10.1126/sciadv.adu7426)]   | 
-
+|-        | Predicting new research directions in materials science using large language models and concept graphs (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01206-y)][[**Code**](https://github.com/aimat-lab/materials_concepts)]     | 
 
 ## Accelerating Theoretical Computation
 |Method         |           Paper            |
@@ -242,6 +242,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |DistMLIP         |DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=4tasfBIPxp)]      | 
 |Uni-HamGNN        |A universal spin–orbit-coupled Hamiltonian model for accelerated quantum material discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01196-x)]   [[**Code**](https://github.com/QuantumLab-ZY/HamGNN)]    | 
 |XRDecoupler |Rethinking Crystal Symmetry Prediction: A Decoupled Perspective (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/38657)] [[**Code**](https://github.com/baigeiguai/XRDecoupler)] |
+|EFA        | Machine learning global atomic representations with Euclidean fast attention (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01195-y)][[**Code**](https://github.com/thorben-frank/euclidean_fast_attention)]     | 
+
 
 ## Benchmark
 |Method         |           Paper            |
