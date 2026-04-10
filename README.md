@@ -64,7 +64,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CLOUD        |CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-70467-3)]   [[**Code**](https://github.com/BattModels/CLOUD)]   |
 |GoeCTP |Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/37004)]  |
 |FUSION |Dataset Pruning via Fusing Uncertainty with Structural Information for Optimal Neural Training in Crystal Property Prediction (AAAI2026) [[**Paper**](https://doi.org/10.1609/aaai.v40i31.39863)] [[**Code**](https://github.com/tetean/FUSION)] |
-
+|SDCGNN<sub>dk</sub> |Structure divide-and-conquer: dual graph representation for accurate ionic transport barrier prediction of inorganic compounds (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02058-1)] [[**Code**](https://github.com/ZHW-YANN/SDCGNN-DK)] |
+|PRISM |PRISM: periodic representation with multiscale and similarity graph modelling for enhanced crystal structure property prediction (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02074-1)] [[**Code**](https://github.com/imatge-upc/PRISM)] |
 
 ## Crystalline Material Generative Design
 
@@ -245,7 +246,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Uni-HamGNN        |A universal spin–orbit-coupled Hamiltonian model for accelerated quantum material discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01196-x)]   [[**Code**](https://github.com/QuantumLab-ZY/HamGNN)]    | 
 |XRDecoupler |Rethinking Crystal Symmetry Prediction: A Decoupled Perspective (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/38657)] [[**Code**](https://github.com/baigeiguai/XRDecoupler)] |
 |EFA        | Machine learning global atomic representations with Euclidean fast attention (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01195-y)][[**Code**](https://github.com/thorben-frank/euclidean_fast_attention)]     | 
-
+|ARK |Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02062-5)] [[**Code**](https://github.com/hyukjunlim/ARK)] |
 
 ## Benchmark
 |Method         |           Paper            |
