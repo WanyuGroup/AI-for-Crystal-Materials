@@ -241,7 +241,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SurFF        | SurFF: a foundation model for surface exposure and morphology across intermetallic crystals  (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00839-0)][[**Code**](https://github.com/Long1Corn/SurFF)]     | 
 |-   |Systematic softening in universal machine learning interatomic potentials (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01500-6)]   | 
 |PET-MAD  |PET-MAD as a lightweight universal interatomic potential for advanced materials modeling (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-65662-7)] [[**Code**](https://github.com/lab-cosmo/pet-mad)]     |
-|-          | Sparsity-promoting Fine-tuning for Equivariant Materials Foundation Model (ICLR2026) [[**Paper**](https://openreview.net/forum?id=moBqB1CUym)]    | 
+|-          | Robust and Interpretable Adaptation of Equivariant Materials Foundation Models via Sparsity-promoting Fine-tuning (ICLR2026) [[**Paper**](https://openreview.net/forum?id=moBqB1CUym)]     [[**Code**](https://openreview.net/forum?id=moBqB1CUym)]   | 
 |NextHAM         | Advancing Universal Deep Learning for Electronic-Structure Hamiltonian Prediction of Materials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=YvmR4vNai2)]    [[**Code**](https://github.com/DavidYin94/NextHAM)]  | 
 |MatRIS         |MatRIS: Toward Reliable and Efficient Pretrained Machine Learning Interaction Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=5xBT5Ziute)]    | 
 |DistMLIP         |DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials (ICLR2026) [[**Paper**](https://openreview.net/forum?id=4tasfBIPxp)]      | 
@@ -267,6 +267,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |HSG-12M          | HSG-12M: A Large-Scale Dataset of Spatial Multigraphs from the Energy Spectra of non-Hermitian Crystals (ICLR2026) [[**Paper**](https://openreview.net/forum?id=YxuKCME576)]   [[**Code**](https://github.com/sarinstein-yan/HSG-12M)]   [[**Code**](https://github.com/sarinstein-yan/Poly2Graph)] | 
 |CatalystBench         |CatalystBench: A Comprehensive Multi-Task Benchmark for Advancing Language Models in Catalysis Science(ICLR2026) [[**Paper**](https://openreview.net/forum?id=tCFYwPdmT4)]    | 
 |MOFSimBench  |MOFSimBench: evaluating universal machine learning interatomic potentials in metal-organic framework molecular modeling (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01872-3)]   [[**Code**](https://github.com/AI4ChemS/mofsim-bench)]   |
+|LAMBench  |LAMBench: A Benchmark for Large Atomistic Models (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01929-3)]   [[**Code**](https://github.com/deepmodeling/lambench)]   |
+
 
 ## Common Dataset 
 
