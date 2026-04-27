@@ -66,6 +66,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |FUSION |Dataset Pruning via Fusing Uncertainty with Structural Information for Optimal Neural Training in Crystal Property Prediction (AAAI2026) [[**Paper**](https://doi.org/10.1609/aaai.v40i31.39863)] [[**Code**](https://github.com/tetean/FUSION)] |
 |SDCGNN<sub>dk</sub> |Structure divide-and-conquer: dual graph representation for accurate ionic transport barrier prediction of inorganic compounds (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02058-1)] [[**Code**](https://github.com/ZHW-YANN/SDCGNN-DK)] |
 |PRISM |PRISM: periodic representation with multiscale and similarity graph modelling for enhanced crystal structure property prediction (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02074-1)] [[**Code**](https://github.com/imatge-upc/PRISM)] |
+|ICL-FM |In context learning foundation models for materials property prediction with small datasets (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02089-8)] [[**Code**](https://github.com/usccolumbia/matFM)] |
+
 
 ## Crystalline Material Generative Design
 
@@ -157,6 +159,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |LLaMat        |A family of large language models for materials research with insights into model adaptability in continued pretraining (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01199-8)]   [[**Code**](https://github.com/M3RG-IITD/llamat)]    | 
 |E^3Relax |Equivariant Atomic and Lattice Modeling Using Geometric Deep Learning for Crystal Structure Optimization (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/39996)] [[**Code**](https://github.com/Shen-Group/E3Relax)] |
 |CrystalDiT |CrystalDiT: Simple Diffusion Transformers for Crystal Generation (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/37121)] [[**Code**](https://github.com/hanyi2021/CrystalDiT)] |
+|- |Closed-loop workflow of high-entropy materials discovery: efficient and accurate synthesizability prediction via domain-specific local LLMs (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02092-z)] [[**Code**](https://github.com/evenfarther/Sythesizability_prediction_local_llms)] |
 
 
 ## Aiding Characterization
@@ -249,6 +252,11 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |RANGE   |Extending the range of graph neural networks with global encodings (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-69715-3)] [[**Code**](https://github.com/ClementiGroup/range)]     |
 |EFA        | Machine learning global atomic representations with Euclidean fast attention (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01195-y)][[**Code**](https://github.com/thorben-frank/euclidean_fast_attention)]     | 
 |ARK |Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02062-5)] [[**Code**](https://github.com/hyukjunlim/ARK)] |
+|- |A domain-specific machine learning potential model for metallic materials spanning 53 elements (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02072-3)] |
+
+
+
+
 
 ## Benchmark
 |Method         |           Paper            |
