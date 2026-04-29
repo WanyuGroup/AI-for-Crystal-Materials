@@ -68,7 +68,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SDCGNN<sub>dk</sub> |Structure divide-and-conquer: dual graph representation for accurate ionic transport barrier prediction of inorganic compounds (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02058-1)] [[**Code**](https://github.com/ZHW-YANN/SDCGNN-DK)] |
 |PRISM |PRISM: periodic representation with multiscale and similarity graph modelling for enhanced crystal structure property prediction (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02074-1)] [[**Code**](https://github.com/imatge-upc/PRISM)] |
 |ICL-FM |In context learning foundation models for materials property prediction with small datasets (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02089-8)] [[**Code**](https://github.com/usccolumbia/matFM)] |
-
+|MatterChat        | A multimodal large language model for materials science (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01214-y)][[**Code**](https://zenodo.org/records/18735881)]     | 
 
 ## Crystalline Material Generative Design
 
@@ -202,6 +202,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-        | Predicting new research directions in materials science using large language models and concept graphs (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01206-y)][[**Code**](https://github.com/aimat-lab/materials_concepts)]     | 
 |XRDSol    |Equivariant diffusion solution for inorganic crystal structure determination from powder X-ray diffraction data (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-70035-9)] [[**Code**](https://github.com/ai4mat-zhu/XRDSol)]     |
 |XCCP |KAN-enhanced contrastive learning: the accelerator of crystal structure identification from XRD patterns (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02015-y)] |
+|EMSeek       | Bridging electron microscopy and materials analysis with an autonomous agentic platform (Science  Advances, 2026) [[**Paper**](https://www.science.org/doi/full/10.1126/sciadv.aed0583)][[**Code**](https://github.com/PEESEgroup/EMSeek)]     | 
+
 
 ## Accelerating Theoretical Computation
 |Method         |           Paper            |
