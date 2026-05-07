@@ -164,6 +164,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |E^3Relax |Equivariant Atomic and Lattice Modeling Using Geometric Deep Learning for Crystal Structure Optimization (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/39996)] [[**Code**](https://github.com/Shen-Group/E3Relax)] |
 |CrystalDiT |CrystalDiT: Simple Diffusion Transformers for Crystal Generation (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/37121)] [[**Code**](https://github.com/hanyi2021/CrystalDiT)] |
 |- |Closed-loop workflow of high-entropy materials discovery: efficient and accurate synthesizability prediction via domain-specific local LLMs (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02092-z)] [[**Code**](https://github.com/evenfarther/Sythesizability_prediction_local_llms)] |
+|DAO  |Siamese foundation models for crystal structure prediction (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-72362-3)] [[**Code**](https://github.com/ManlioWu/DAO)]     |
 
 
 ## Aiding Characterization
