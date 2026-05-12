@@ -263,7 +263,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ARK |Angular relational knowledge distillation of machine learning interatomic potentials for scalable catalyst exploration (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02062-5)] [[**Code**](https://github.com/hyukjunlim/ARK)] |
 |- |A domain-specific machine learning potential model for metallic materials spanning 53 elements (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02072-3)] |
 |TrajCast        | Force-free molecular dynamics through autoregressive equivariant networks  (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01227-7)][[**Code**](https://github.com/IBM/trajcast)]     | 
-
+|-        | Platonic representation of foundation machine learning interatomic potentials  (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01235-7)][[**Code**](https://github.com/WMD-group/PlatonicRep)]     | 
 
 
 
