@@ -180,8 +180,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |AutoMat          |AutoMat: Physics-Guided Agentic Reasoning for Solving Ill-Posed Inverse Microscopy Problems (ICML2026) [[**Paper**](https://openreview.net/forum?id=TLroFiKilA)]     [[**Code**](https://github.com/yyt-2378/AutoMat)]  | 
 | PLaID++          |PLaID++: A Preference Aligned Language Model for Targeted Inorganic Materials Design (ICML2026) [[**Paper**](https://openreview.net/forum?id=wFThVGzmvq)]     [[**Code**](https://github.com/andaero/PLaID)]  | 
 |CatFlow        |CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching (ICML2026) [[**Paper**](https://openreview.net/forum?id=WikLu7PkNK)]     [[**Code**](https://github.com/minkyu1022/CatFlow)]  | 
-
-
+|Chemeleon2        |Guiding generative models to uncover diverse and novel crystals via reinforcement learning (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01262-4)]   [[**Code**](https://github.com/hspark1212/chemeleon2)]    | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -223,6 +222,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |XCCP |KAN-enhanced contrastive learning: the accelerator of crystal structure identification from XRD patterns (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02015-y)] |
 |CrystalX   | CrystalX: High-Accuracy Crystal Structure Analysis Using Deep Learning (Journal of the American Chemical Society, 2026) [[**Paper**](https://pubs.acs.org/doi/10.1021/jacs.5c21832)]    [[**Code**](https://github.com/InternScience/CrystalX)]  | 
 |EMSeek       | Bridging electron microscopy and materials analysis with an autonomous agentic platform (Science  Advances, 2026) [[**Paper**](https://www.science.org/doi/full/10.1126/sciadv.aed0583)][[**Code**](https://github.com/PEESEgroup/EMSeek)]     | 
+|-        |An agentic artificially intelligent X-ray scientist (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01261-5)]   [[**Code**](https://zenodo.org/records/20017992)]    | 
+
+
 
 
 ## Accelerating Theoretical Computation
@@ -286,7 +288,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-       |Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials (ICML2026) [[**Paper**](https://openreview.net/forum?id=BCVB3TFpk5)]     [[**Code**](https://github.com/AegisIK/smooth-dynamic-cutoff)]  | 
 |AllScAIP       |A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention (ICML2026) [[**Paper**](https://openreview.net/forum?id=oZg9YF9dkz)]     [[**Code**](https://github.com/facebookresearch/fairchem)]  | 
 |BLIPs       |BLIPs: Bayesian Learned Interatomic Potentials (ICML2026) [[**Paper**](https://openreview.net/forum?id=ZSZW2diTs5)]     [[**Code**](https://github.com/dario-coscia/blip)]  | 
-
+|NEP89        | NEP89: universal neuroevolution potential for inorganic and organic materials across 89 elements  (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01009-6)][[**Code**](https://github.com/brucefan1983/GPUMD-Tutorials/tree/main/examples/26_fine_tune_NEP89)]     | 
 
 
 ## Benchmark
