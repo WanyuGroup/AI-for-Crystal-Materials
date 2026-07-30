@@ -181,6 +181,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 | PLaID++          |PLaID++: A Preference Aligned Language Model for Targeted Inorganic Materials Design (ICML2026) [[**Paper**](https://openreview.net/forum?id=wFThVGzmvq)]     [[**Code**](https://github.com/andaero/PLaID)]  | 
 |CatFlow        |CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching (ICML2026) [[**Paper**](https://openreview.net/forum?id=WikLu7PkNK)]     [[**Code**](https://github.com/minkyu1022/CatFlow)]  | 
 |Chemeleon2        |Guiding generative models to uncover diverse and novel crystals via reinforcement learning (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01262-4)]   [[**Code**](https://github.com/hspark1212/chemeleon2)]    | 
+|-        |Design topological materials by reinforcement fine-tuned generative model (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-73321-8)]   [[**Code**](https://github.com/haosheng-21/DC-XB-model)]    | 
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
