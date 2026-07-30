@@ -77,6 +77,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CEITNet          |Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling (ICML2026) [[**Paper**](https://openreview.net/forum?id=4RCt2j8HpW)]     [[**Code**](https://github.com/CLaSLoVe/ceitnet)]  | 
 |DeepSciReasoner          |Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction (ICML2026) [[**Paper**](https://openreview.net/forum?id=LTrBRkduRt)]      | 
 |LE-ESO          |Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning (ICML2026) [[**Paper**](https://openreview.net/forum?id=klDHS09WNY)]     | 
+|-          |Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor (ICML2026) [[**Paper**](https://openreview.net/forum?id=JJ3KlnhGJJ)]     [[**Code**](https://github.com/jykim-git/MD)]  | 
+
 
 ## Crystalline Material Generative Design
 
