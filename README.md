@@ -78,6 +78,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |DeepSciReasoner          |Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction (ICML2026) [[**Paper**](https://openreview.net/forum?id=LTrBRkduRt)]      | 
 |LE-ESO          |Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning (ICML2026) [[**Paper**](https://openreview.net/forum?id=klDHS09WNY)]     | 
 |-          |Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor (ICML2026) [[**Paper**](https://openreview.net/forum?id=JJ3KlnhGJJ)]     [[**Code**](https://github.com/jykim-git/MD)]  | 
+|RUGE-Net           |Robust crystal property prediction from unrelaxed structures via expert-guided coordinate refinement (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02269-6)]     [[**Code**](https://github.com/xucongs/RUGE-Net)]  | 
+|PPhT          |Phonon density of states prediction from the phonon transformer (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02199-3)]     [[**Code**](https://github.com/RyoSXu/ARPAT)]  | 
 
 
 ## Crystalline Material Generative Design
@@ -184,6 +186,10 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CatFlow        |CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching (ICML2026) [[**Paper**](https://openreview.net/forum?id=WikLu7PkNK)]     [[**Code**](https://github.com/minkyu1022/CatFlow)]  | 
 |Chemeleon2        |Guiding generative models to uncover diverse and novel crystals via reinforcement learning (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01262-4)]   [[**Code**](https://github.com/hspark1212/chemeleon2)]    | 
 |-        |Design topological materials by reinforcement fine-tuned generative model (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-73321-8)]   [[**Code**](https://github.com/haosheng-21/DC-XB-model)]    | 
+|-          |Inverse Design of Novel Antiferromagnets Through Symmetry-aware Generation (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02169-9)]     | 
+|OpenCSP          |OpenCSP: a deep learning framework for crystal structure prediction from ambient to high pressure (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02180-0)]      | 
+|Bgolearn          |Bgolearn: a unified Bayesian optimization framework for accelerating materials discovery(npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02226-3)]     [[**Code**](https://github.com/Bin-Cao/Bgolearn)]  | 
+|SparksMatter          |Autonomous in-silico inorganic materials discovery via multi-agent physics-aware scientific reasoning (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02205-8)]     [[**Code**](https://github.com/lamm-mit/SparksMatter)]  | 
 
 
 ## Aiding Characterization
@@ -227,8 +233,11 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrystalX   | CrystalX: High-Accuracy Crystal Structure Analysis Using Deep Learning (Journal of the American Chemical Society, 2026) [[**Paper**](https://pubs.acs.org/doi/10.1021/jacs.5c21832)]    [[**Code**](https://github.com/InternScience/CrystalX)]  | 
 |EMSeek       | Bridging electron microscopy and materials analysis with an autonomous agentic platform (Science  Advances, 2026) [[**Paper**](https://www.science.org/doi/full/10.1126/sciadv.aed0583)][[**Code**](https://github.com/PEESEgroup/EMSeek)]     | 
 |-        |An agentic artificially intelligent X-ray scientist (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01261-5)]   [[**Code**](https://zenodo.org/records/20017992)]    | 
-
-
+|TGNN-ST          |Predicting slip transmission pathways using graph neural networks (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02218-3)]      | 
+|TEM Agent          |TEM Agent: enhancing transmission electron microscopy with modern AI tools (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02103-z)]     [[**Code**](https://www.nature.com/articles/s41524-026-02103-z)]  | 
+|EAA           |Experiment automation agents: automating materials characterization with vision language model agents (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02213-8)]     [[**Code**](https://github.com/AdvancedPhotonSource/EAA)]  | 
+|Graph-FINDER           |Graph-FINDER: multimodal AI for extracting materials data from scientific figures at scale (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02247-y)]     [[**Code**](https://github.com/YoungokCha/GraphFINDER)]  | 
+|PtyINR        |Learning neural representations for X-ray ptychography reconstruction with unknown probes (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02170-2)]     [[**Code**](https://github.com/TISGroup/PtyINR)]  | 
 
 
 ## Accelerating Theoretical Computation
@@ -294,6 +303,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |AllScAIP       |A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention (ICML2026) [[**Paper**](https://openreview.net/forum?id=oZg9YF9dkz)]     [[**Code**](https://github.com/facebookresearch/fairchem)]  | 
 |BLIPs       |BLIPs: Bayesian Learned Interatomic Potentials (ICML2026) [[**Paper**](https://openreview.net/forum?id=ZSZW2diTs5)]     [[**Code**](https://github.com/dario-coscia/blip)]  | 
 |NEP89        | NEP89: universal neuroevolution potential for inorganic and organic materials across 89 elements  (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01009-6)][[**Code**](https://github.com/brucefan1983/GPUMD-Tutorials/tree/main/examples/26_fine_tune_NEP89)]     | 
+|CliffordIP           |CliffordIP: Clifford algebra equivariant interatomic potentials for heterogeneous catalysis (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02259-8)]     [[**Code**](https://github.com/KurbanIntelligenceLab/CliffordIP)]  | 
+|HackNIP          |Leveraging neural network interatomic potentials for a foundation model of chemistry (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02167-x)]     [[**Code**](https://github.com/parkyjmit/HackNIP)]  | 
 
 
 ## Benchmark
