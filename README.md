@@ -317,6 +317,10 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |AtomWorld          |AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures (ICML2026) [[**Paper**](https://openreview.net/forum?id=tqr5sZlS6Y)]     [[**Code**](https://github.com/MasterAI-EAM/atomworld)]  | 
 |MADE          |MADE: Benchmark Environments for Closed-Loop Materials Discovery (ICML2026) [[**Paper**](https://openreview.net/forum?id=nrXxVDYMMF)]     [[**Code**](https://github.com/diffractivelabs/MADE)]  | 
 |SciAgentGym          |SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents (ICML2026) [[**Paper**](https://openreview.net/forum?id=0Moj0YgFEF)]    | 
+|Metal-43          |Origin of the machine learning forces field errors across metal elements (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-01977-3?fromPaywallRec=false)]     [[**Code**](https://archive.materialscloud.org/records/desfh-3ma25)]  | 
+|-          |Benchmarking universal machine learning interatomic potentials on elemental systems (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02251-2?fromPaywallRec=false#code-availability)]     [[**Code**](https://rodare.hzdr.de/record/4596)]  | 
+|UniFFBench          |UniFFBench: evaluating universal machine learning force fields against experimental measurements (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01019-4)]     [[**Code**](https://github.com/M3RG-IITD/UniFFBench)]  | 
+
 
 ## Common Dataset 
 
