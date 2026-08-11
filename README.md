@@ -199,7 +199,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |RADII   |How Far Can You Grow? Characterizing the Extrapolation Frontier of Graph Generative Models for Materials Science (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818872)]     [[**Code**](https://github.com/KurbanIntelligenceLab/RADII)]  | 
 |DMFlow   |DMFlow: Disordered Materials Generation by Flow Matching (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818866)]     [[**Code**](https://github.com/GLAD-RUC/DMFlow)]  | 
 |TGD-CSP   |TGD-CSP: Reliable Crystal Structure Prediction with Template-Guided Diffusion and Energy-Based Optimization (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818992)]     | 
-
+|PeroMAS   |PeroMAS: A Multi-agent System of Perovskite Material Discovery (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818858)]     [[**Code**](https://github.com/DEFENSE-SEU/PeroMAS)]  | 
+|-   |Designing materials that feel and redress error (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818929)]     [[**Code**](https://github.com/shawnbeaulieu/back-and-forth-polycomputation)]  | 
+|ARIA   |ARIA: A Causal-Aware Framework for Rescuing LLM Reasoning in Trustworthy Materials Discovery (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818954)]     [[**Code**](https://github.com/yicao-elina/ARIA)]  | 
 
 
 ## Aiding Characterization
@@ -248,6 +250,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |EAA           |Experiment automation agents: automating materials characterization with vision language model agents (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02213-8)]     [[**Code**](https://github.com/AdvancedPhotonSource/EAA)]  | 
 |Graph-FINDER           |Graph-FINDER: multimodal AI for extracting materials data from scientific figures at scale (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02247-y)]     [[**Code**](https://github.com/YoungokCha/GraphFINDER)]  | 
 |PtyINR        |Learning neural representations for X-ray ptychography reconstruction with unknown probes (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02170-2)]     [[**Code**](https://github.com/TISGroup/PtyINR)]  | 
+|AutoSchema   |AutoSchema: Self-Prompted Schema Induction and Evidence-Grounded Extraction for Materials Science Literature (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3817812)]     [[**Code**](https://github.com/lisazhuuu/AutoSchema)]  | 
+|BatteryMFormer   |BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818948)]     [[**Code**](https://github.com/Ruifeng-Tan/BatteryMFormer)]  | 
+
 
 
 ## Accelerating Theoretical Computation
@@ -317,6 +322,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |HackNIP          |Leveraging neural network interatomic potentials for a foundation model of chemistry (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02167-x)]     [[**Code**](https://github.com/parkyjmit/HackNIP)]  | 
 
 
+
 ## Benchmark
 |Method         |           Paper            |
 |----------------|-------------------------------|
@@ -341,6 +347,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Metal-43          |Origin of the machine learning forces field errors across metal elements (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-01977-3?fromPaywallRec=false)]     [[**Code**](https://archive.materialscloud.org/records/desfh-3ma25)]  | 
 |-          |Benchmarking universal machine learning interatomic potentials on elemental systems (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02251-2?fromPaywallRec=false#code-availability)]     [[**Code**](https://rodare.hzdr.de/record/4596)]  | 
 |UniFFBench          |UniFFBench: evaluating universal machine learning force fields against experimental measurements (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01019-4)]     [[**Code**](https://github.com/M3RG-IITD/UniFFBench)]  | 
+|UniHam   |UniHam: A Large-Scale SOC-Complete Dataset and Benchmark for Hamiltonian Learning in Materials (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3817531)]    | 
+|MatSciBench   |MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science (KDD2026) [[**Paper**](https://dl.acm.org/doi/epdf/10.1145/3770855.3818888)]     [[**Code**](https://github.com/Jun-Kai-Zhang/MatSciBench)]  | 
 
 
 ## Common Dataset 
