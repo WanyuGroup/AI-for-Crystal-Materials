@@ -82,6 +82,11 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PPhT          |Phonon density of states prediction from the phonon transformer (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02199-3)]     [[**Code**](https://github.com/RyoSXu/ARPAT)]  | 
 
 
+
+|PCRL    |Learning Probabilistic Compositional Representation of Crystalline Materials (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818922)]     [[**Code**](https://github.com/Namkyeong/PCRL)]  | 
+
+
+
 ## Crystalline Material Generative Design
 
 |Method         |           Paper            |
@@ -190,6 +195,12 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |OpenCSP          |OpenCSP: a deep learning framework for crystal structure prediction from ambient to high pressure (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02180-0)]      | 
 |Bgolearn          |Bgolearn: a unified Bayesian optimization framework for accelerating materials discovery(npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02226-3)]     [[**Code**](https://github.com/Bin-Cao/Bgolearn)]  | 
 |SparksMatter          |Autonomous in-silico inorganic materials discovery via multi-agent physics-aware scientific reasoning (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02205-8)]     [[**Code**](https://github.com/lamm-mit/SparksMatter)]  | 
+
+
+|SCCD    |From Noisy STEM to Crystal Structure: Evidence-StructureCoDiffusion under Composition Constraints (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818950)]     [[**Code**](https://peesegroup.github.io/STEM2Crystal-Bench/)]  | 
+|UniPath     |One Path to Model Them All: Learnable-Time Flow Matching for Crystal Structure and Energy Prediction (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818902)]     [[**Code**](https://github.com/GLAD-RUC/UniPath)]  | 
+|EH-Diff     |Beyond Pairwise Interactions: Equivariant Hypergraph Diffusion for Crystal Structure Prediction (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818832)]     | 
+
 
 
 ## Aiding Characterization
