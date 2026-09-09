@@ -81,7 +81,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |RUGE-Net           |Robust crystal property prediction from unrelaxed structures via expert-guided coordinate refinement (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02269-6)]     [[**Code**](https://github.com/xucongs/RUGE-Net)]  | 
 |PPhT          |Phonon density of states prediction from the phonon transformer (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02199-3)]     [[**Code**](https://github.com/RyoSXu/ARPAT)]  | 
 |PCRL    |Learning Probabilistic Compositional Representation of Crystalline Materials (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818922)]     [[**Code**](https://github.com/Namkyeong/PCRL)]  | 
-
+|-        |Thermal conductivity predictions with foundation atomistic models (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-76391-w)]   [[**Code**](https://www.nature.com/articles/s41467-026-76391-w)]   | 
 
 
 ## Crystalline Material Generative Design
@@ -203,7 +203,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-   |Designing materials that feel and redress error (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818929)]     [[**Code**](https://github.com/shawnbeaulieu/back-and-forth-polycomputation)]  | 
 |ARIA   |ARIA: A Causal-Aware Framework for Rescuing LLM Reasoning in Trustworthy Materials Discovery (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818954)]     [[**Code**](https://github.com/yicao-elina/ARIA)]  | 
 |CrysVCD        | Enhancing materials discovery with valence-constrained design in generative modeling (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01037-2)][[**Code**](https://github.com/vipandyc/CrysVCD)]     | 
-
+|GOLLuM         |Large language models as uncertainty-calibrated optimizers for experimental discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01283-z)]   [[**Code**](https://github.com/schwallergroup/gollum)]    | 
 
 
 ## Aiding Characterization
