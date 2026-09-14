@@ -204,6 +204,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ARIA   |ARIA: A Causal-Aware Framework for Rescuing LLM Reasoning in Trustworthy Materials Discovery (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818954)]     [[**Code**](https://github.com/yicao-elina/ARIA)]  | 
 |CrysVCD        | Enhancing materials discovery with valence-constrained design in generative modeling (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01037-2)][[**Code**](https://github.com/vipandyc/CrysVCD)]     | 
 |GOLLuM         |Large language models as uncertainty-calibrated optimizers for experimental discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01283-z)]   [[**Code**](https://github.com/schwallergroup/gollum)]    | 
+|MatBrain         |A collaborative agent with two lightweight synergistic models for autonomous crystal materials research (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01298-6)]   [[**Code**](https://github.com/MAIC-SIAT/matbrain/tree/zenodo-v0.1)]    | 
 
 
 ## Aiding Characterization
