@@ -353,8 +353,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |UniFFBench          |UniFFBench: evaluating universal machine learning force fields against experimental measurements (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01019-4)]     [[**Code**](https://github.com/M3RG-IITD/UniFFBench)]  | 
 |UniHam   |UniHam: A Large-Scale SOC-Complete Dataset and Benchmark for Hamiltonian Learning in Materials (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3817531)]    | 
 |MatSciBench   |MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science (KDD2026) [[**Paper**](https://dl.acm.org/doi/epdf/10.1145/3770855.3818888)]     [[**Code**](https://github.com/Jun-Kai-Zhang/MatSciBench)]  | 
-|MatUQ   |MatUQ: a benchmark for uncertainty-aware out-of-distribution materials property prediction with graph neural networks
- (npj Computational Materials) [[**Paper**](https://www.nature.com/articles/s41524-026-02272-x)]     [[**Code**]([https://github.com/Jun-Kai-Zhang/MatSciBench](https://github.com/researchdev7/MatUQ))]  | 
+| MatUQ | MatUQ: A Benchmark for Uncertainty-Aware Out-of-Distribution Materials Property Prediction with Graph Neural Networks (npj Computational Materials) [[**Paper**](https://www.nature.com/articles/s41524-026-02272-x)] [[**Code**](https://github.com/researchdev7/MatUQ)] |
 
 
 ## Common Dataset 
