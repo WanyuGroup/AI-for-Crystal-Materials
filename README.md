@@ -324,7 +324,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |NEP89        | NEP89: universal neuroevolution potential for inorganic and organic materials across 89 elements  (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01009-6)][[**Code**](https://github.com/brucefan1983/GPUMD-Tutorials/tree/main/examples/26_fine_tune_NEP89)]     | 
 |CliffordIP           |CliffordIP: Clifford algebra equivariant interatomic potentials for heterogeneous catalysis (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02259-8)]     [[**Code**](https://github.com/KurbanIntelligenceLab/CliffordIP)]  | 
 |HackNIP          |Leveraging neural network interatomic potentials for a foundation model of chemistry (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02167-x)]     [[**Code**](https://github.com/parkyjmit/HackNIP)]  | 
-
+|CarNet |Atomistic machine learning with irreducible Cartesian natural tensors (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-77263-z)] [[**Code**](https://github.com/wengroup/carnet)]     |
 
 
 ## Benchmark
