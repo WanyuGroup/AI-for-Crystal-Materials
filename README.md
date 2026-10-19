@@ -84,6 +84,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-        |Thermal conductivity predictions with foundation atomistic models (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-76391-w)]   [[**Code**](https://www.nature.com/articles/s41467-026-76391-w)]   | 
 |CLaC        |Scaling multimodal materials representation learning with synthetic narratives (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-76378-7)]   [[**Code**](https://github.com/parkyjmit/CLaC)]   |
 |MatText        | Less can be more for predicting properties with large language models (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01045-2)][[**Code**](https://github.com/lamalab-org/MatText)]     | 
+|IonNet  |Decoding the chemical space of fast-ion conductors via a descriptor-guided transfer learning framework (Science Advances, 2026) [[**Paper**](https://www.science.org/doi/full/10.1126/sciadv.aee4959)]     [[**Code**](https://github.com/PEESEgroup/IonNet)]  |  
 
 
 
