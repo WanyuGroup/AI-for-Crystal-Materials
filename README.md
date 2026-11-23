@@ -87,7 +87,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |IonNet  |Decoding the chemical space of fast-ion conductors via a descriptor-guided transfer learning framework (Science Advances, 2026) [[**Paper**](https://www.science.org/doi/full/10.1126/sciadv.aee4959)]     [[**Code**](https://github.com/PEESEgroup/IonNet)]  |  
 |EdenGNN         |Efficient equivariant framework for universal charge density prediction (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01326-5)]   [[**Code**](https://github.com/rubenlee11/EdenGNN)]    | 
 |-         |Data-driven discovery and rapid, direct synthesis of MXenes (Science, 2026) [[**Paper**](https://www.science.org/doi/10.1126/science.aeh5957)]     | 
-
+|-        |Minimizing data requirements for chemical and material property prediction via cluster-based training set selection  (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01076-9)][[**Code**](https://zenodo.org/records/22133401)]     | 
 
 
 
@@ -212,6 +212,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrysVCD        | Enhancing materials discovery with valence-constrained design in generative modeling (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01037-2)][[**Code**](https://github.com/vipandyc/CrysVCD)]     | 
 |GOLLuM         |Large language models as uncertainty-calibrated optimizers for experimental discovery (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01283-z)]   [[**Code**](https://github.com/schwallergroup/gollum)]    | 
 |MatBrain         |A collaborative agent with two lightweight synergistic models for autonomous crystal materials research (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01298-6)]   [[**Code**](https://github.com/MAIC-SIAT/matbrain/tree/zenodo-v0.1)]    | 
+|MOFGen     |System of agentic AI for the discovery of metal–organic frameworks  (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01058-x)][[**Code**](https://github.com/tjaffrel/mofgen)]     | 
 
 
 ## Aiding Characterization
