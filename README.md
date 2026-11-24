@@ -67,10 +67,11 @@ A curated collection of papers on **AI for crystalline materials**, covering rec
 | **EdenGNN** | Efficient equivariant framework for universal charge density prediction | Nature Machine Intelligence, 2026 | [**Paper**](https://www.nature.com/articles/s42256-026-01326-5) · [**Code**](https://github.com/rubenlee11/EdenGNN) |
 | - | Data-driven discovery and rapid, direct synthesis of MXenes | Science, 2026 | [**Paper**](https://www.science.org/doi/10.1126/science.aeh5957) |
 | - | Minimizing data requirements for chemical and material property prediction via cluster-based training set selection | Nature Computational Science, 2026 | [**Paper**](https://www.nature.com/articles/s43588-026-01076-9) · [**Code**](https://zenodo.org/records/22133401) |
-| **MFAN** | Adaptive Multi-Frame Learning for Expressive and Stable Atomic Representations | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=U3iPm0WWuK#discussion) · [**Code**](https://github.com/IngramWang/mfan) |
-| **IrredNet** | Symmetry-Guaranteed Prediction of High-Order Tensor Properties for Crystalline Materials via Irreducible Decomposition | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=6XMKkwiYyK#discussion) · [**Code**](https://github.com/QiaolinLu/IrredNet) |
 | **MGT** | Improving crystal material property prediction with multi-view geometric graph transformer | Nature Communications, 2026 | [**Paper**](https://www.nature.com/articles/s41467-026-73627-7) |
 | - | Predicting spin-crossover behavior in metal-organic frameworks from limited and noisy data using quantile active learning | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02365-7) |
+| **MFAN** | Adaptive Multi-Frame Learning for Expressive and Stable Atomic Representations | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=U3iPm0WWuK#discussion) · [**Code**](https://github.com/IngramWang/mfan) |
+| **IrredNet** | Symmetry-Guaranteed Prediction of High-Order Tensor Properties for Crystalline Materials via Irreducible Decomposition | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=6XMKkwiYyK#discussion) · [**Code**](https://github.com/QiaolinLu/IrredNet) |
+
 
 ### 2025
 
@@ -222,6 +223,11 @@ A curated collection of papers on **AI for crystalline materials**, covering rec
 | **PeroMAS** | PeroMAS: A Multi-agent System of Perovskite Material Discovery | KDD2026 | [**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818858) · [**Code**](https://github.com/DEFENSE-SEU/PeroMAS) |
 | - | Designing materials that feel and redress error | KDD2026 | [**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818929) · [**Code**](https://github.com/shawnbeaulieu/back-and-forth-polycomputation) |
 | **ARIA** | ARIA: A Causal-Aware Framework for Rescuing LLM Reasoning in Trustworthy Materials Discovery | KDD2026 | [**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818954) · [**Code**](https://github.com/yicao-elina/ARIA) |
+| **MatterGen-e⁻** | Inverse materials design via joint generation of crystal structures and local electronic descriptors | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02322-4) |
+| - | General-purpose LLMs as constrained crystal composition generators | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02339-9) · [**Code**](https://gitlab.mpcdf.mpg.de/achmaxim/llm-cccg) |
+| **CrystalCGAIN** | CrystalCGAIN: efficient generation and inverse design of porous crystal structures with target properties | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02138-2) · [**Code**](https://github.com/caize0401/CrystalCGAIN) |
+| - | Deep learning generative model for conditional crystal structure prediction of sodium amide | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-01994-2) |
+| **OptiMat Alloys** | OptiMat Alloys: a FAIR-aligned living database of multi-principal element alloys enabled by a conversational agent | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02377-3) |
 | **CrysVCD** | Enhancing materials discovery with valence-constrained design in generative modeling | Nature Computational Science, 2026 | [**Paper**](https://www.nature.com/articles/s43588-026-01037-2) · [**Code**](https://github.com/vipandyc/CrysVCD) |
 | **GOLLuM** | Large language models as uncertainty-calibrated optimizers for experimental discovery | Nature Machine Intelligence, 2026 | [**Paper**](https://www.nature.com/articles/s42256-026-01283-z) · [**Code**](https://github.com/schwallergroup/gollum) |
 | **MatBrain** | A collaborative agent with two lightweight synergistic models for autonomous crystal materials research | Nature Machine Intelligence, 2026 | [**Paper**](https://www.nature.com/articles/s42256-026-01298-6) · [**Code**](https://github.com/MAIC-SIAT/matbrain/tree/zenodo-v0.1) |
@@ -237,11 +243,7 @@ A curated collection of papers on **AI for crystalline materials**, covering rec
 | **SGFM** | Space Group Conditional Flow Matching | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=RKIPnVN3E0#discussion) · [**Code**](https://github.com/omri1348/SGFM) |
 | **NAHUAL** | NAHUAL: A Sequence Model for Language and Atoms | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=H8Gx6rCmHV#discussion) · [**Code**](https://github.com/the-matter-lab/nahual) |
 | **Ferrogen** | Ferrogen: Generative Pipeline for Guided Search of Novel Ferroelectric Material for Logic and Memory | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=CnO0wbQ24u#discussion) · [**Code**](https://github.com/keplercompute/kepler-ferrogen) |
-| **MatterGen-e⁻** | Inverse materials design via joint generation of crystal structures and local electronic descriptors | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02322-4) |
-| - | General-purpose LLMs as constrained crystal composition generators | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02339-9) · [**Code**](https://gitlab.mpcdf.mpg.de/achmaxim/llm-cccg) |
-| **CrystalCGAIN** | CrystalCGAIN: efficient generation and inverse design of porous crystal structures with target properties | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02138-2) · [**Code**](https://github.com/caize0401/CrystalCGAIN) |
-| - | Deep learning generative model for conditional crystal structure prediction of sodium amide | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-01994-2) |
-| **OptiMat Alloys** | OptiMat Alloys: a FAIR-aligned living database of multi-principal element alloys enabled by a conversational agent | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02377-3) |
+
 
 ### 2025
 
@@ -395,14 +397,15 @@ A curated collection of papers on **AI for crystalline materials**, covering rec
 | **PtyINR** | Learning neural representations for X-ray ptychography reconstruction with unknown probes | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02170-2) · [**Code**](https://github.com/TISGroup/PtyINR) |
 | **AutoSchema** | AutoSchema: Self-Prompted Schema Induction and Evidence-Grounded Extraction for Materials Science Literature | KDD2026 | [**Paper**](https://dl.acm.org/doi/10.1145/3770855.3817812) · [**Code**](https://github.com/lisazhuuu/AutoSchema) |
 | **BatteryMFormer** | BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting | KDD2026 | [**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818948) · [**Code**](https://github.com/Ruifeng-Tan/BatteryMFormer) |
-| **XDecomposer** | XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=2Q4B95mpTf#discussion) · [**Code**](https://github.com/Licht0812/XDecomposer) |
-| **MSP-LLM** | MSP-LLM: A Structured Large Language Model Framework for Inorganic Material Synthesis Planning | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=uYucJYHAGU#discussion) · [**Code**](https://github.com/HeewoongNoh/MSP-LLM) |
 | **AlphaDiffract** | AlphaDiffract: automated crystallographic analysis of powder X-ray diffraction data | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02388-0) |
 | **MatBind** | MatBind: a shared embedding space for multimodal materials characterization | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02382-6) |
 | - | Generative inverse estimation of 3D atomic coordination from near-edge spectra via equivariant diffusion models | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02384-4) |
 | **MatSKRAFT** | MatSKRAFT: A framework for large-scale materials knowledge extraction from scientific tables | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02359-5) |
 | - | Unsupervised machine learning for automated crystal orientation mapping on noisy 4D-STEM data | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02337-x) |
 | - | Physics-informed Bayesian optimization for quantitative high-resolution transmission electron microscopy | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02364-8) |
+| **XDecomposer** | XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=2Q4B95mpTf#discussion) · [**Code**](https://github.com/Licht0812/XDecomposer) |
+| **MSP-LLM** | MSP-LLM: A Structured Large Language Model Framework for Inorganic Material Synthesis Planning | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=uYucJYHAGU#discussion) · [**Code**](https://github.com/HeewoongNoh/MSP-LLM) |
+
 
 ### 2025
 
@@ -520,15 +523,16 @@ A curated collection of papers on **AI for crystalline materials**, covering rec
 | **CliffordIP** | CliffordIP: Clifford algebra equivariant interatomic potentials for heterogeneous catalysis | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02259-8) · [**Code**](https://github.com/KurbanIntelligenceLab/CliffordIP) |
 | **HackNIP** | Leveraging neural network interatomic potentials for a foundation model of chemistry | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02167-x) · [**Code**](https://github.com/parkyjmit/HackNIP) |
 | **CarNet** | Atomistic machine learning with irreducible Cartesian natural tensors | Nature Communications, 2026 | [**Paper**](https://www.nature.com/articles/s41467-026-77263-z) · [**Code**](https://github.com/wengroup/carnet) |
+| **GRACE** | Graph atomic cluster expansion for foundational machine learning interatomic potentials | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-01979-1) · [**Code**](https://github.com/ICAMS/grace-tensorpotential) |
+| **SevenNet-reEWC** | An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-025-01895-w) |
+| - | Heterogeneous ensemble enables a universal uncertainty metric for atomistic foundation models | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-025-01905-x) |
+| **DeepH-pack** | DeepH-pack: a general-purpose neural network package for deep-learning electronic structure calculations | npj Computational Materials, 2026 | [**Paper**](https://doi.org/10.1038/s41524-026-02219-2) |
 | **AtomWorld-Mem** | AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=6wc2BIP9Oe#discussion) |
 | **MCSA** | MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=sP37ySEbfu#discussion) · [**Code**](https://github.com/JF-Tan/MCSA) |
 | - | Compact SO(3) Equivariant Atomistic Foundation Models via Structural Pruning | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=AJ8IWO0noE#discussion) · [**Code**](https://github.com/HPC-AI-Team/SO3-Pruning) |
 | **MICA** | MICA: Activation Checkpointing for Double-Backward Training of Machine Learning Interatomic Potentials | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=l01VgKyaZx#discussion) |
 | **Flux** | Flux: Online, Fine-Grained Data Scheduling for Training Machine Learning Interatomic Potentials | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=cTBlOIoXV7#discussion) |
-| **GRACE** | Graph atomic cluster expansion for foundational machine learning interatomic potentials | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-01979-1) · [**Code**](https://github.com/ICAMS/grace-tensorpotential) |
-| **SevenNet-reEWC** | An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-025-01895-w) |
-| - | Heterogeneous ensemble enables a universal uncertainty metric for atomistic foundation models | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-025-01905-x) |
-| **DeepH-pack** | DeepH-pack: a general-purpose neural network package for deep-learning electronic structure calculations | npj Computational Materials, 2026 | [**Paper**](https://doi.org/10.1038/s41524-026-02219-2) |
+
 
 ### 2025
 
@@ -656,6 +660,8 @@ A curated collection of papers on **AI for crystalline materials**, covering rec
 | **UniHam** | UniHam: A Large-Scale SOC-Complete Dataset and Benchmark for Hamiltonian Learning in Materials | KDD2026 | [**Paper**](https://dl.acm.org/doi/10.1145/3770855.3817531) |
 | **MatSciBench** | MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science | KDD2026 | [**Paper**](https://dl.acm.org/doi/epdf/10.1145/3770855.3818888) · [**Code**](https://github.com/Jun-Kai-Zhang/MatSciBench) |
 | **MatUQ** | MatUQ: A Benchmark for Uncertainty-Aware Out-of-Distribution Materials Property Prediction with Graph Neural Networks | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02272-x) · [**Code**](https://github.com/researchdev7/MatUQ) |
+| **OMat24** | The Open Materials 2024 (OMat24) inorganic materials dataset and models | Nature Computational Science, 2026 | [**Paper**](https://www.nature.com/articles/s43588-026-00996-w) · [**Code**](https://doi.org/10.5281/zenodo.19687080) |
+| - | Navigating order-disorder family trees via group-subgroup transitions | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02386-2) |
 | **OPAL-Bench** | Quantitative Assessment of Crystal Structure Prediction | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=rtIvlv5N1r#discussion) · [**Code**](https://github.com/BCV-Uniandes/OPAL) |
 | **MOOD** | MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=XD8uZJ05Fn#discussion) · [**Code**](https://github.com/vertaix/mood-benchmark) |
 | **ZeoBench** | ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=HGGEjqZduv#discussion) · [**Code**](https://github.com/cvl-umass/ZeoBench) |
@@ -664,8 +670,7 @@ A curated collection of papers on **AI for crystalline materials**, covering rec
 | **AET-Bench** | AET-Bench: Pixel-Accurate Atomic Tomography Is Not Atom-Accurate | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=GmdQ25dIWq#discussion) · [**Code**](https://github.com/pone7/4D-ATE) |
 | **MatCurvs** | MatCurvs: Article Real-Coordinate Curve Extraction for Agent-Ready Materials Reasoning | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=uHECG4TS6s#discussion) · [**Code**](https://github.com/yinliang420/matcurvs) |
 | **CME–SpectrumBench** | CME–SpectrumBench: Can LLMs Analyze Condensed Matter Spectral Data? | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=NHQBRaklRP#discussion) · [**Code**](https://huggingface.co/datasets/jingene/CMESpectrumBench) |
-| **OMat24** | The Open Materials 2024 (OMat24) inorganic materials dataset and models | Nature Computational Science, 2026 | [**Paper**](https://www.nature.com/articles/s43588-026-00996-w) · [**Code**](https://doi.org/10.5281/zenodo.19687080) |
-| - | Navigating order-disorder family trees via group-subgroup transitions | npj Computational Materials, 2026 | [**Paper**](https://www.nature.com/articles/s41524-026-02386-2) |
+
 
 ### 2025
 
