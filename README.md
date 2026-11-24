@@ -223,6 +223,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 | AtomMOF | AtomMOF: All-Atom Flow Matching for MOF-Adsorbate Structure Prediction (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=mJ3KktOdtZ#discussion)][[**Code**](https://github.com/nayoung10/AtomMOF)] |
 | CliqueFlowmer | Offline Materials Optimization with CliqueFlowmer (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=FxdSdeIj0j#discussion)][[**Code**](https://github.com/znowu/CliqueFlowmer)] |
 | ManifoldCache | ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=IfSl3ULbla#discussion)] [[**Code**](https://github.com/prinshul/Manifoldcache)] |
+| SGFM | Space Group Conditional Flow Matching (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=RKIPnVN3E0#discussion)] [[**Code**](https://github.com/omri1348/SGFM)] |
+| NAHUAL |NAHUAL: A Sequence Model for Language and Atoms (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=H8Gx6rCmHV#discussion)] [[**Code**](https://github.com/the-matter-lab/nahual)] |
+| Ferrogen |Ferrogen: Generative Pipeline for Guided Search of Novel Ferroelectric Material for Logic and Memory (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=CnO0wbQ24u#discussion)] [[**Code**](https://github.com/keplercompute/kepler-ferrogen)] |
 
 
 ## Aiding Characterization
@@ -274,6 +277,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |AutoSchema   |AutoSchema: Self-Prompted Schema Induction and Evidence-Grounded Extraction for Materials Science Literature (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3817812)]     [[**Code**](https://github.com/lisazhuuu/AutoSchema)]  | 
 |BatteryMFormer   |BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818948)]     [[**Code**](https://github.com/Ruifeng-Tan/BatteryMFormer)]  | 
 | XDecomposer | XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=2Q4B95mpTf#discussion)][[**Code**](https://github.com/Licht0812/XDecomposer)] |
+| MSP-LLM |MSP-LLM: A Structured Large Language Model Framework for Inorganic Material Synthesis Planning (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=uYucJYHAGU#discussion)] [[**Code**](https://github.com/HeewoongNoh/MSP-LLM)] |
 
 
 
