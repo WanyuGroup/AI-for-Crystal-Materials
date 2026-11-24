@@ -214,6 +214,15 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |MatBrain         |A collaborative agent with two lightweight synergistic models for autonomous crystal materials research (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01298-6)]   [[**Code**](https://github.com/MAIC-SIAT/matbrain/tree/zenodo-v0.1)]    | 
 |MOFGen     |System of agentic AI for the discovery of metal–organic frameworks  (Nature Computational Science, 2026) [[**Paper**](https://www.nature.com/articles/s43588-026-01058-x)][[**Code**](https://github.com/tjaffrel/mofgen)]     | 
 
+|SymADiT          | SymADiT: Symmetry-Aware Crystal Generation with Latent Flow Matching (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=Wq7CPxqQ2B#discussion)][[**Code**](https://github.com/Karmush21/SymADiT)]     | 
+| CrystalREPA | CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=CNnIIFw6WS#discussion)][[**Code**](https://github.com/Chengqian-Zhang/CrystalREPA)] |
+| DTS | Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=WlhX6hq6Jo#discussion)][[**Code**](https://github.com/danielTLevy/MaterialDTS)] |
+| EP-Flow | EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=zc9Yuz8txr#discussion)] |
+| Clari | Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=KD4i8hE0Rc#discussion)][[**Code**](https://github.com/aspuru-guzik-group/clari)] |
+| AtomMOF | AtomMOF: All-Atom Flow Matching for MOF-Adsorbate Structure Prediction (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=mJ3KktOdtZ#discussion)][[**Code**](https://github.com/nayoung10/AtomMOF)] |
+| CliqueFlowmer | Offline Materials Optimization with CliqueFlowmer (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=FxdSdeIj0j#discussion)][[**Code**](https://github.com/znowu/CliqueFlowmer)] |
+| ManifoldCache | ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=IfSl3ULbla#discussion)] |
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -263,6 +272,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PtyINR        |Learning neural representations for X-ray ptychography reconstruction with unknown probes (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02170-2)]     [[**Code**](https://github.com/TISGroup/PtyINR)]  | 
 |AutoSchema   |AutoSchema: Self-Prompted Schema Induction and Evidence-Grounded Extraction for Materials Science Literature (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3817812)]     [[**Code**](https://github.com/lisazhuuu/AutoSchema)]  | 
 |BatteryMFormer   |BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3818948)]     [[**Code**](https://github.com/Ruifeng-Tan/BatteryMFormer)]  | 
+| XDecomposer | XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=2Q4B95mpTf#discussion)][[**Code**](https://github.com/Licht0812/XDecomposer)] |
 
 
 
@@ -333,6 +343,11 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CliffordIP           |CliffordIP: Clifford algebra equivariant interatomic potentials for heterogeneous catalysis (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02259-8)]     [[**Code**](https://github.com/KurbanIntelligenceLab/CliffordIP)]  | 
 |HackNIP          |Leveraging neural network interatomic potentials for a foundation model of chemistry (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02167-x)]     [[**Code**](https://github.com/parkyjmit/HackNIP)]  | 
 |CarNet |Atomistic machine learning with irreducible Cartesian natural tensors (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-77263-z)] [[**Code**](https://github.com/wengroup/carnet)]     |
+| AtomWorld-Mem | AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=6wc2BIP9Oe#discussion)] |
+| MCSA | MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=sP37ySEbfu#discussion)] |
+| - | Compact SO(3) Equivariant Atomistic Foundation Models via Structural Pruning (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=AJ8IWO0noE#discussion)] |
+| MICA | MICA: Activation Checkpointing for Double-Backward Training of Machine Learning Interatomic Potentials (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=l01VgKyaZx#discussion)] |
+| Flux | Flux: Online, Fine-Grained Data Scheduling for Training Machine Learning Interatomic Potentials (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=cTBlOIoXV7#discussion)] |
 
 
 ## Benchmark
@@ -363,7 +378,14 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |UniHam   |UniHam: A Large-Scale SOC-Complete Dataset and Benchmark for Hamiltonian Learning in Materials (KDD2026) [[**Paper**](https://dl.acm.org/doi/10.1145/3770855.3817531)]    | 
 |MatSciBench   |MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science (KDD2026) [[**Paper**](https://dl.acm.org/doi/epdf/10.1145/3770855.3818888)]     [[**Code**](https://github.com/Jun-Kai-Zhang/MatSciBench)]  | 
 |MatUQ | MatUQ: A Benchmark for Uncertainty-Aware Out-of-Distribution Materials Property Prediction with Graph Neural Networks (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02272-x)] [[**Code**](https://github.com/researchdev7/MatUQ)] |
-
+| OPAL-Bench | Quantitative Assessment of Crystal Structure Prediction (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=rtIvlv5N1r#discussion)][[**Code**](https://github.com/BCV-Uniandes/OPAL)] |
+| MOOD | MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=XD8uZJ05Fn#discussion)][[**Code**](https://github.com/vertaix/mood-benchmark)] |
+| ZeoBench | ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=HGGEjqZduv#discussion)][[**Code**](https://github.com/cvl-umass/ZeoBench)] |
+| MaterialsSaddles | MaterialsSaddles: 32 Million Transition States and a Flow-Matching Saddle-Point Predictor for Materials (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=5lFUOghgb2#discussion)] |
+| InformedXRD | InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=snum235vrK#discussion)][[**Code**](https://github.com/scattering/InformedXRD)] |
+| AET-Bench | AET-Bench: Pixel-Accurate Atomic Tomography Is Not Atom-Accurate (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=GmdQ25dIWq#discussion)][[**Code**](https://github.com/pone7/4D-ATE)] |
+| MatCurvs | MatCurvs: Article Real-Coordinate Curve Extraction for Agent-Ready Materials Reasoning (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=uHECG4TS6s#discussion)] |
+| CME–SpectrumBench | CME–SpectrumBench: Can LLMs Analyze Condensed Matter Spectral Data? (NeurIPS2026) [[**Paper**](https://openreview.net/forum?id=NHQBRaklRP#discussion)] |
 
 ## Common Dataset 
 
