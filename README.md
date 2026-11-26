@@ -243,7 +243,7 @@ A curated collection of papers on **AI for crystalline materials**, covering rec
 | **SGFM** | Space Group Conditional Flow Matching | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=RKIPnVN3E0#discussion) · [**Code**](https://github.com/omri1348/SGFM) |
 | **NAHUAL** | NAHUAL: A Sequence Model for Language and Atoms | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=H8Gx6rCmHV#discussion) · [**Code**](https://github.com/the-matter-lab/nahual) |
 | **Ferrogen** | Ferrogen: Generative Pipeline for Guided Search of Novel Ferroelectric Material for Logic and Memory | NeurIPS2026 | [**Paper**](https://openreview.net/forum?id=CnO0wbQ24u#discussion) · [**Code**](https://github.com/keplercompute/kepler-ferrogen) |
-
+| **DBCata** | Accelerating high-throughput catalyst screening by direct generation of equilibrium adsorption structures | Nature Communications, 2026 | [**Paper**](https://www.nature.com/articles/s41467-026-79243-9) · [**Code**](https://github.com/Songze1019/DBCata) |
 
 ### 2025
 
